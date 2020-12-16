@@ -1,9 +1,5 @@
 # Slimmable Networks
 
-![version](https://img.shields.io/badge/version-v3.0.0--alpha-green.svg?style=plastic)
-![pytorch](https://img.shields.io/badge/pytorch-v1.0.0-green.svg?style=plastic)
-![license](https://img.shields.io/badge/license-CC_BY--NC-green.svg?style=plastic)
-
 
 An open source framework for slimmable training on tasks of ImageNet classification and COCO detection, which has enabled numerous projects. <sup>[1](#snets), [2](#usnets), [3](#autoslim)</sup>
 
