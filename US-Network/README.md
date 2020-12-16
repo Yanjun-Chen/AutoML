@@ -9,22 +9,16 @@ An open source framework for slimmable training on tasks of ImageNet classificat
 
 <strong  id="snets">1. Slimmable Neural Networks</strong> <sub> [ICLR 2019 Paper](https://arxiv.org/abs/1812.08928) | [OpenReview](https://openreview.net/forum?id=H1gMCsAqY7) | [Detection](https://github.com/JiahuiYu/slimmable_networks/tree/detection) | [Model Zoo](#slimmable-model-zoo)</sub>
 
-<img src="https://user-images.githubusercontent.com/22609465/50390872-1b3fb600-0702-11e9-8034-d0f41825d775.png" width=95%/>
-
 Illustration of slimmable neural networks. The same model can run at different widths (number of active channels), permitting instant and adaptive accuracy-efficiency trade-offs.
 </div>
 
 
 <strong id="usnets">2. Universally Slimmable Networks and Improved Training Techniques</strong> <sub> [ICCV 2019 Paper](https://arxiv.org/abs/1903.05134) | [Model Zoo](#slimmable-model-zoo)</sub>
 
-<img src="https://user-images.githubusercontent.com/22609465/54562571-45b5ae00-4995-11e9-8984-49e32d07e325.png" width=60%/>
-
 Illustration of universally slimmable networks. The same model can run at **arbitrary** widths.
 
 
 <strong id="autoslim">3. AutoSlim: Towards One-Shot Architecture Search for Channel Numbers</strong> <sub> [NeurIPS 2019 Workshop Paper](https://arxiv.org/abs/1903.11728) | [Model Zoo](#slimmable-model-zoo)</sub>
-
-<img src="https://user-images.githubusercontent.com/22609465/54886763-93309000-4e59-11e9-963a-c15bf49af3c0.gif" width=25%/><img src="https://user-images.githubusercontent.com/22609465/54886764-9592ea00-4e59-11e9-9541-924bbd9ff727.gif" width=25%/><img src="https://user-images.githubusercontent.com/22609465/54886766-97f54400-4e59-11e9-81bb-3b262df7c898.gif" width=25%/><img src="https://user-images.githubusercontent.com/22609465/54886768-9a579e00-4e59-11e9-9896-25e7eab7e2e0.gif" width=25%/>
 
 AutoSlimming MobileNet v1, MobileNet v2, MNasNet and ResNet-50: the optimized number of channels under **each** computational budget (FLOPs).
 
