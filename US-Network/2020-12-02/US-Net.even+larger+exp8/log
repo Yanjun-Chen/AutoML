@@ -1,0 +1,878 @@
+[2020-12-02 16:36:40,007][train1126_uneven.py][line:605][INFO] start training!
+[2020-12-02 16:37:27,613][train1126_uneven.py][line:713][INFO] 
+Epoch 1
+[2020-12-02 16:37:27,613][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-02 16:37:27,613][train1126_uneven.py][line:715][INFO] epoch time 0.0007836818695068359
+[2020-12-02 16:39:59,301][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	0/1252 top5_error: 0.997, top1_error: 0.999, loss: 6.921, lr: 0.498
+[2020-12-02 16:39:59,302][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	0/1252 top5_error: 0.993, top1_error: 0.999, loss: 6.900, lr: 0.498
+[2020-12-02 16:44:08,538][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	50/1252 top5_error: 0.990, top1_error: 0.998, loss: 6.865, lr: 0.498
+[2020-12-02 16:44:08,566][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	50/1252 top5_error: 0.992, top1_error: 0.998, loss: 6.836, lr: 0.498
+[2020-12-02 16:47:52,890][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	100/1252 top5_error: 0.984, top1_error: 0.997, loss: 6.746, lr: 0.498
+[2020-12-02 16:47:52,948][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	100/1252 top5_error: 0.988, top1_error: 0.997, loss: 6.766, lr: 0.498
+[2020-12-02 16:51:36,317][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	150/1252 top5_error: 0.979, top1_error: 0.995, loss: 6.645, lr: 0.498
+[2020-12-02 16:51:36,382][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	150/1252 top5_error: 0.984, top1_error: 0.997, loss: 6.692, lr: 0.498
+[2020-12-02 16:55:25,711][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	200/1252 top5_error: 0.976, top1_error: 0.994, loss: 6.576, lr: 0.498
+[2020-12-02 16:55:25,793][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	200/1252 top5_error: 0.981, top1_error: 0.996, loss: 6.637, lr: 0.498
+[2020-12-02 16:58:57,318][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	250/1252 top5_error: 0.972, top1_error: 0.993, loss: 6.515, lr: 0.498
+[2020-12-02 16:58:57,400][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	250/1252 top5_error: 0.978, top1_error: 0.995, loss: 6.587, lr: 0.498
+[2020-12-02 17:02:30,149][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	300/1252 top5_error: 0.967, top1_error: 0.992, loss: 6.452, lr: 0.498
+[2020-12-02 17:02:30,273][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	300/1252 top5_error: 0.974, top1_error: 0.994, loss: 6.529, lr: 0.498
+[2020-12-02 17:06:08,388][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	350/1252 top5_error: 0.962, top1_error: 0.991, loss: 6.393, lr: 0.498
+[2020-12-02 17:06:08,529][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	350/1252 top5_error: 0.970, top1_error: 0.993, loss: 6.476, lr: 0.498
+[2020-12-02 17:09:46,319][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	400/1252 top5_error: 0.958, top1_error: 0.990, loss: 6.338, lr: 0.498
+[2020-12-02 17:09:46,484][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	400/1252 top5_error: 0.967, top1_error: 0.992, loss: 6.432, lr: 0.498
+[2020-12-02 17:13:21,783][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	450/1252 top5_error: 0.953, top1_error: 0.988, loss: 6.286, lr: 0.498
+[2020-12-02 17:13:21,938][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	450/1252 top5_error: 0.964, top1_error: 0.991, loss: 6.392, lr: 0.498
+[2020-12-02 17:16:57,077][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	500/1252 top5_error: 0.947, top1_error: 0.986, loss: 6.230, lr: 0.498
+[2020-12-02 17:16:57,282][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	500/1252 top5_error: 0.959, top1_error: 0.990, loss: 6.348, lr: 0.498
+[2020-12-02 17:20:33,539][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	550/1252 top5_error: 0.941, top1_error: 0.984, loss: 6.173, lr: 0.498
+[2020-12-02 17:20:33,759][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	550/1252 top5_error: 0.955, top1_error: 0.989, loss: 6.299, lr: 0.498
+[2020-12-02 17:24:16,976][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	600/1252 top5_error: 0.935, top1_error: 0.982, loss: 6.119, lr: 0.498
+[2020-12-02 17:24:17,216][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	600/1252 top5_error: 0.950, top1_error: 0.987, loss: 6.252, lr: 0.498
+[2020-12-02 17:28:00,810][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	650/1252 top5_error: 0.928, top1_error: 0.980, loss: 6.066, lr: 0.497
+[2020-12-02 17:28:01,057][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	650/1252 top5_error: 0.945, top1_error: 0.986, loss: 6.204, lr: 0.497
+[2020-12-02 17:31:38,746][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	700/1252 top5_error: 0.922, top1_error: 0.978, loss: 6.015, lr: 0.497
+[2020-12-02 17:31:39,034][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	700/1252 top5_error: 0.939, top1_error: 0.984, loss: 6.159, lr: 0.497
+[2020-12-02 17:35:20,689][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	750/1252 top5_error: 0.915, top1_error: 0.975, loss: 5.964, lr: 0.497
+[2020-12-02 17:35:20,983][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	750/1252 top5_error: 0.934, top1_error: 0.982, loss: 6.114, lr: 0.497
+[2020-12-02 17:39:02,769][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	800/1252 top5_error: 0.908, top1_error: 0.972, loss: 5.912, lr: 0.497
+[2020-12-02 17:39:03,104][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	800/1252 top5_error: 0.928, top1_error: 0.980, loss: 6.066, lr: 0.497
+[2020-12-02 17:42:47,874][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	850/1252 top5_error: 0.901, top1_error: 0.970, loss: 5.863, lr: 0.497
+[2020-12-02 17:42:48,108][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	850/1252 top5_error: 0.922, top1_error: 0.978, loss: 6.021, lr: 0.497
+[2020-12-02 17:46:24,142][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	900/1252 top5_error: 0.893, top1_error: 0.967, loss: 5.814, lr: 0.497
+[2020-12-02 17:46:24,509][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	900/1252 top5_error: 0.916, top1_error: 0.975, loss: 5.976, lr: 0.497
+[2020-12-02 17:50:05,203][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	950/1252 top5_error: 0.886, top1_error: 0.964, loss: 5.767, lr: 0.497
+[2020-12-02 17:50:05,505][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	950/1252 top5_error: 0.910, top1_error: 0.973, loss: 5.933, lr: 0.497
+[2020-12-02 17:53:46,105][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	1000/1252 top5_error: 0.880, top1_error: 0.961, loss: 5.722, lr: 0.497
+[2020-12-02 17:53:46,528][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	1000/1252 top5_error: 0.905, top1_error: 0.971, loss: 5.893, lr: 0.497
+[2020-12-02 17:57:19,902][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	1050/1252 top5_error: 0.872, top1_error: 0.958, loss: 5.677, lr: 0.497
+[2020-12-02 17:57:20,227][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	1050/1252 top5_error: 0.899, top1_error: 0.969, loss: 5.852, lr: 0.497
+[2020-12-02 18:00:57,938][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	1100/1252 top5_error: 0.865, top1_error: 0.955, loss: 5.633, lr: 0.497
+[2020-12-02 18:00:58,259][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	1100/1252 top5_error: 0.893, top1_error: 0.966, loss: 5.812, lr: 0.497
+[2020-12-02 18:04:40,047][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	1150/1252 top5_error: 0.858, top1_error: 0.952, loss: 5.589, lr: 0.497
+[2020-12-02 18:04:40,442][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	1150/1252 top5_error: 0.887, top1_error: 0.964, loss: 5.772, lr: 0.497
+[2020-12-02 18:08:21,059][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	1200/1252 top5_error: 0.851, top1_error: 0.948, loss: 5.547, lr: 0.497
+[2020-12-02 18:08:21,489][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	1200/1252 top5_error: 0.881, top1_error: 0.961, loss: 5.735, lr: 0.497
+[2020-12-02 18:12:02,843][train1126_uneven.py][line:552][INFO] train	1.0	epoch:1/250	1250/1252 top5_error: 0.844, top1_error: 0.945, loss: 5.507, lr: 0.497
+[2020-12-02 18:12:03,250][train1126_uneven.py][line:552][INFO] train	0.25	epoch:1/250	1250/1252 top5_error: 0.875, top1_error: 0.959, loss: 5.698, lr: 0.497
+[2020-12-02 18:12:15,401][train1126_uneven.py][line:576][INFO] train	1.0	epoch:1/250	1251/1252 top5_error: 0.844, top1_error: 0.945, loss: 5.506, lr: 0.497
+[2020-12-02 18:12:15,949][train1126_uneven.py][line:576][INFO] train	0.25	epoch:1/250	1251/1252 top5_error: 0.875, top1_error: 0.959, loss: 5.697, lr: 0.497
+[2020-12-02 18:13:32,860][train1126_uneven.py][line:552][INFO] val	1.0	epoch:1/250	0/49 top5_error: 0.471, top1_error: 0.787, loss: 3.665
+[2020-12-02 18:13:32,862][train1126_uneven.py][line:552][INFO] val	0.75	epoch:1/250	0/49 top5_error: 0.997, top1_error: 1.000, loss: 13.510
+[2020-12-02 18:13:32,864][train1126_uneven.py][line:552][INFO] val	0.5	epoch:1/250	0/49 top5_error: 0.969, top1_error: 1.000, loss: 8.060
+[2020-12-02 18:13:32,865][train1126_uneven.py][line:552][INFO] val	0.25	epoch:1/250	0/49 top5_error: 0.597, top1_error: 0.854, loss: 5.141
+[2020-12-02 18:17:24,168][train1126_uneven.py][line:576][INFO] val	1.0	epoch:1/250	48/49 top5_error: 0.691, top1_error: 0.877, loss: 4.887
+[2020-12-02 18:17:24,186][train1126_uneven.py][line:576][INFO] val	0.75	epoch:1/250	48/49 top5_error: 0.975, top1_error: 0.993, loss: 15.068
+[2020-12-02 18:17:24,205][train1126_uneven.py][line:576][INFO] val	0.5	epoch:1/250	48/49 top5_error: 0.949, top1_error: 0.985, loss: 8.249
+[2020-12-02 18:17:24,224][train1126_uneven.py][line:576][INFO] val	0.25	epoch:1/250	48/49 top5_error: 0.739, top1_error: 0.898, loss: 5.422
+[2020-12-02 18:17:24,224][train1126_uneven.py][line:747][INFO] [[0.87748], [0.99308], [0.98474], [0.8985]]
+[2020-12-02 18:17:24,224][train1126_uneven.py][line:713][INFO] 
+Epoch 2
+[2020-12-02 18:17:24,224][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-02 18:17:24,224][train1126_uneven.py][line:715][INFO] epoch time 5996.610794305801
+[2020-12-02 18:18:20,130][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	0/1252 top5_error: 0.684, top1_error: 0.864, loss: 4.632, lr: 0.496
+[2020-12-02 18:18:20,131][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	0/1252 top5_error: 0.740, top1_error: 0.898, loss: 4.850, lr: 0.496
+[2020-12-02 18:23:37,022][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	50/1252 top5_error: 0.670, top1_error: 0.861, loss: 4.456, lr: 0.496
+[2020-12-02 18:23:37,041][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	50/1252 top5_error: 0.724, top1_error: 0.893, loss: 4.746, lr: 0.496
+[2020-12-02 18:27:43,073][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	100/1252 top5_error: 0.661, top1_error: 0.854, loss: 4.403, lr: 0.496
+[2020-12-02 18:27:43,111][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	100/1252 top5_error: 0.716, top1_error: 0.887, loss: 4.699, lr: 0.496
+[2020-12-02 18:31:33,254][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	150/1252 top5_error: 0.653, top1_error: 0.851, loss: 4.374, lr: 0.496
+[2020-12-02 18:31:33,310][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	150/1252 top5_error: 0.710, top1_error: 0.884, loss: 4.676, lr: 0.496
+[2020-12-02 18:35:19,458][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	200/1252 top5_error: 0.647, top1_error: 0.847, loss: 4.345, lr: 0.496
+[2020-12-02 18:35:19,525][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	200/1252 top5_error: 0.706, top1_error: 0.881, loss: 4.650, lr: 0.496
+[2020-12-02 18:39:03,056][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	250/1252 top5_error: 0.643, top1_error: 0.845, loss: 4.325, lr: 0.496
+[2020-12-02 18:39:03,152][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	250/1252 top5_error: 0.703, top1_error: 0.880, loss: 4.637, lr: 0.496
+[2020-12-02 18:42:49,599][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	300/1252 top5_error: 0.637, top1_error: 0.841, loss: 4.295, lr: 0.496
+[2020-12-02 18:42:49,701][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	300/1252 top5_error: 0.698, top1_error: 0.876, loss: 4.612, lr: 0.496
+[2020-12-02 18:46:30,600][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	350/1252 top5_error: 0.631, top1_error: 0.837, loss: 4.265, lr: 0.496
+[2020-12-02 18:46:30,747][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	350/1252 top5_error: 0.692, top1_error: 0.873, loss: 4.586, lr: 0.496
+[2020-12-02 18:50:15,947][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	400/1252 top5_error: 0.626, top1_error: 0.833, loss: 4.238, lr: 0.496
+[2020-12-02 18:50:16,106][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	400/1252 top5_error: 0.687, top1_error: 0.870, loss: 4.561, lr: 0.496
+[2020-12-02 18:53:57,861][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	450/1252 top5_error: 0.620, top1_error: 0.830, loss: 4.212, lr: 0.496
+[2020-12-02 18:53:58,047][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	450/1252 top5_error: 0.682, top1_error: 0.867, loss: 4.537, lr: 0.496
+[2020-12-02 18:57:51,289][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	500/1252 top5_error: 0.616, top1_error: 0.827, loss: 4.188, lr: 0.496
+[2020-12-02 18:57:51,491][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	500/1252 top5_error: 0.678, top1_error: 0.864, loss: 4.514, lr: 0.496
+[2020-12-02 19:01:36,648][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	550/1252 top5_error: 0.610, top1_error: 0.823, loss: 4.163, lr: 0.496
+[2020-12-02 19:01:36,863][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	550/1252 top5_error: 0.673, top1_error: 0.861, loss: 4.492, lr: 0.496
+[2020-12-02 19:05:24,676][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	600/1252 top5_error: 0.606, top1_error: 0.820, loss: 4.140, lr: 0.496
+[2020-12-02 19:05:24,908][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	600/1252 top5_error: 0.669, top1_error: 0.859, loss: 4.471, lr: 0.496
+[2020-12-02 19:09:21,121][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	650/1252 top5_error: 0.601, top1_error: 0.817, loss: 4.118, lr: 0.495
+[2020-12-02 19:09:21,381][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	650/1252 top5_error: 0.665, top1_error: 0.856, loss: 4.451, lr: 0.495
+[2020-12-02 19:13:23,576][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	700/1252 top5_error: 0.597, top1_error: 0.814, loss: 4.094, lr: 0.495
+[2020-12-02 19:13:23,856][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	700/1252 top5_error: 0.661, top1_error: 0.853, loss: 4.431, lr: 0.495
+[2020-12-02 19:17:22,711][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	750/1252 top5_error: 0.592, top1_error: 0.811, loss: 4.072, lr: 0.495
+[2020-12-02 19:17:22,998][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	750/1252 top5_error: 0.657, top1_error: 0.851, loss: 4.411, lr: 0.495
+[2020-12-02 19:21:13,963][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	800/1252 top5_error: 0.588, top1_error: 0.808, loss: 4.051, lr: 0.495
+[2020-12-02 19:21:14,210][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	800/1252 top5_error: 0.653, top1_error: 0.848, loss: 4.393, lr: 0.495
+[2020-12-02 19:25:02,763][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	850/1252 top5_error: 0.584, top1_error: 0.804, loss: 4.029, lr: 0.495
+[2020-12-02 19:25:03,099][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	850/1252 top5_error: 0.649, top1_error: 0.846, loss: 4.373, lr: 0.495
+[2020-12-02 19:28:43,129][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	900/1252 top5_error: 0.580, top1_error: 0.802, loss: 4.008, lr: 0.495
+[2020-12-02 19:28:43,386][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	900/1252 top5_error: 0.645, top1_error: 0.844, loss: 4.356, lr: 0.495
+[2020-12-02 19:32:26,842][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	950/1252 top5_error: 0.576, top1_error: 0.799, loss: 3.988, lr: 0.495
+[2020-12-02 19:32:27,138][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	950/1252 top5_error: 0.642, top1_error: 0.841, loss: 4.337, lr: 0.495
+[2020-12-02 19:36:20,035][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	1000/1252 top5_error: 0.572, top1_error: 0.796, loss: 3.969, lr: 0.495
+[2020-12-02 19:36:20,352][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	1000/1252 top5_error: 0.638, top1_error: 0.839, loss: 4.320, lr: 0.495
+[2020-12-02 19:40:05,091][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	1050/1252 top5_error: 0.568, top1_error: 0.793, loss: 3.949, lr: 0.495
+[2020-12-02 19:40:05,463][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	1050/1252 top5_error: 0.635, top1_error: 0.837, loss: 4.304, lr: 0.495
+[2020-12-02 19:43:47,433][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	1100/1252 top5_error: 0.564, top1_error: 0.790, loss: 3.930, lr: 0.495
+[2020-12-02 19:43:47,836][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	1100/1252 top5_error: 0.631, top1_error: 0.834, loss: 4.287, lr: 0.495
+[2020-12-02 19:47:38,500][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	1150/1252 top5_error: 0.560, top1_error: 0.788, loss: 3.911, lr: 0.495
+[2020-12-02 19:47:38,905][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	1150/1252 top5_error: 0.628, top1_error: 0.832, loss: 4.270, lr: 0.495
+[2020-12-02 19:51:19,446][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	1200/1252 top5_error: 0.557, top1_error: 0.785, loss: 3.894, lr: 0.495
+[2020-12-02 19:51:19,875][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	1200/1252 top5_error: 0.625, top1_error: 0.830, loss: 4.255, lr: 0.495
+[2020-12-02 19:55:04,380][train1126_uneven.py][line:552][INFO] train	1.0	epoch:2/250	1250/1252 top5_error: 0.553, top1_error: 0.782, loss: 3.876, lr: 0.495
+[2020-12-02 19:55:04,774][train1126_uneven.py][line:552][INFO] train	0.25	epoch:2/250	1250/1252 top5_error: 0.622, top1_error: 0.828, loss: 4.240, lr: 0.495
+[2020-12-02 19:55:14,133][train1126_uneven.py][line:576][INFO] train	1.0	epoch:2/250	1251/1252 top5_error: 0.553, top1_error: 0.782, loss: 3.876, lr: 0.495
+[2020-12-02 19:55:14,592][train1126_uneven.py][line:576][INFO] train	0.25	epoch:2/250	1251/1252 top5_error: 0.622, top1_error: 0.828, loss: 4.240, lr: 0.495
+[2020-12-02 19:55:57,145][train1126_uneven.py][line:552][INFO] val	1.0	epoch:2/250	0/49 top5_error: 0.364, top1_error: 0.646, loss: 3.177
+[2020-12-02 19:55:57,146][train1126_uneven.py][line:552][INFO] val	0.75	epoch:2/250	0/49 top5_error: 0.711, top1_error: 0.904, loss: 5.692
+[2020-12-02 19:55:57,147][train1126_uneven.py][line:552][INFO] val	0.5	epoch:2/250	0/49 top5_error: 0.614, top1_error: 0.860, loss: 4.622
+[2020-12-02 19:55:57,147][train1126_uneven.py][line:552][INFO] val	0.25	epoch:2/250	0/49 top5_error: 0.424, top1_error: 0.733, loss: 4.515
+[2020-12-02 19:58:18,303][train1126_uneven.py][line:576][INFO] val	1.0	epoch:2/250	48/49 top5_error: 0.508, top1_error: 0.751, loss: 3.911
+[2020-12-02 19:58:18,321][train1126_uneven.py][line:576][INFO] val	0.75	epoch:2/250	48/49 top5_error: 0.723, top1_error: 0.888, loss: 5.336
+[2020-12-02 19:58:18,339][train1126_uneven.py][line:576][INFO] val	0.5	epoch:2/250	48/49 top5_error: 0.698, top1_error: 0.874, loss: 4.737
+[2020-12-02 19:58:18,358][train1126_uneven.py][line:576][INFO] val	0.25	epoch:2/250	48/49 top5_error: 0.580, top1_error: 0.803, loss: 4.819
+[2020-12-02 19:58:18,358][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082], [0.99308, 0.88818], [0.98474, 0.87416], [0.8985, 0.8035]]
+[2020-12-02 19:58:18,358][train1126_uneven.py][line:713][INFO] 
+Epoch 3
+[2020-12-02 19:58:18,359][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-02 19:58:18,359][train1126_uneven.py][line:715][INFO] epoch time 6054.134416341782
+[2020-12-02 19:59:41,233][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	0/1252 top5_error: 0.468, top1_error: 0.720, loss: 3.378, lr: 0.494
+[2020-12-02 19:59:41,234][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	0/1252 top5_error: 0.537, top1_error: 0.773, loss: 3.815, lr: 0.494
+[2020-12-02 20:04:43,887][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	50/1252 top5_error: 0.468, top1_error: 0.716, loss: 3.422, lr: 0.494
+[2020-12-02 20:04:43,931][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	50/1252 top5_error: 0.542, top1_error: 0.770, loss: 3.831, lr: 0.494
+[2020-12-02 20:08:30,363][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	100/1252 top5_error: 0.464, top1_error: 0.713, loss: 3.407, lr: 0.494
+[2020-12-02 20:08:30,406][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	100/1252 top5_error: 0.539, top1_error: 0.770, loss: 3.823, lr: 0.494
+[2020-12-02 20:12:25,174][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	150/1252 top5_error: 0.459, top1_error: 0.710, loss: 3.385, lr: 0.494
+[2020-12-02 20:12:25,241][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	150/1252 top5_error: 0.535, top1_error: 0.767, loss: 3.807, lr: 0.494
+[2020-12-02 20:16:03,398][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	200/1252 top5_error: 0.456, top1_error: 0.708, loss: 3.371, lr: 0.494
+[2020-12-02 20:16:03,480][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	200/1252 top5_error: 0.532, top1_error: 0.765, loss: 3.794, lr: 0.494
+[2020-12-02 20:19:43,127][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	250/1252 top5_error: 0.454, top1_error: 0.706, loss: 3.360, lr: 0.494
+[2020-12-02 20:19:43,226][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	250/1252 top5_error: 0.530, top1_error: 0.763, loss: 3.783, lr: 0.494
+[2020-12-02 20:23:23,179][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	300/1252 top5_error: 0.452, top1_error: 0.704, loss: 3.350, lr: 0.494
+[2020-12-02 20:23:23,303][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	300/1252 top5_error: 0.528, top1_error: 0.762, loss: 3.774, lr: 0.494
+[2020-12-02 20:27:08,293][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	350/1252 top5_error: 0.450, top1_error: 0.703, loss: 3.342, lr: 0.494
+[2020-12-02 20:27:08,464][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	350/1252 top5_error: 0.526, top1_error: 0.761, loss: 3.769, lr: 0.494
+[2020-12-02 20:30:48,254][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	400/1252 top5_error: 0.448, top1_error: 0.701, loss: 3.331, lr: 0.494
+[2020-12-02 20:30:48,416][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	400/1252 top5_error: 0.524, top1_error: 0.759, loss: 3.759, lr: 0.494
+[2020-12-02 20:34:23,565][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	450/1252 top5_error: 0.446, top1_error: 0.699, loss: 3.320, lr: 0.494
+[2020-12-02 20:34:23,751][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	450/1252 top5_error: 0.522, top1_error: 0.758, loss: 3.751, lr: 0.494
+[2020-12-02 20:38:03,937][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	500/1252 top5_error: 0.443, top1_error: 0.697, loss: 3.307, lr: 0.494
+[2020-12-02 20:38:04,139][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	500/1252 top5_error: 0.520, top1_error: 0.756, loss: 3.740, lr: 0.494
+[2020-12-02 20:41:44,950][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	550/1252 top5_error: 0.442, top1_error: 0.695, loss: 3.298, lr: 0.494
+[2020-12-02 20:41:45,255][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	550/1252 top5_error: 0.519, top1_error: 0.755, loss: 3.732, lr: 0.494
+[2020-12-02 20:45:30,540][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	600/1252 top5_error: 0.440, top1_error: 0.694, loss: 3.288, lr: 0.494
+[2020-12-02 20:45:30,781][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	600/1252 top5_error: 0.517, top1_error: 0.754, loss: 3.725, lr: 0.494
+[2020-12-02 20:49:14,559][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	650/1252 top5_error: 0.438, top1_error: 0.692, loss: 3.279, lr: 0.493
+[2020-12-02 20:49:14,815][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	650/1252 top5_error: 0.516, top1_error: 0.753, loss: 3.717, lr: 0.493
+[2020-12-02 20:52:51,712][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	700/1252 top5_error: 0.436, top1_error: 0.690, loss: 3.270, lr: 0.493
+[2020-12-02 20:52:51,936][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	700/1252 top5_error: 0.514, top1_error: 0.751, loss: 3.709, lr: 0.493
+[2020-12-02 20:56:30,900][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	750/1252 top5_error: 0.435, top1_error: 0.689, loss: 3.261, lr: 0.493
+[2020-12-02 20:56:31,195][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	750/1252 top5_error: 0.513, top1_error: 0.750, loss: 3.702, lr: 0.493
+[2020-12-02 21:00:11,247][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	800/1252 top5_error: 0.433, top1_error: 0.687, loss: 3.251, lr: 0.493
+[2020-12-02 21:00:11,528][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	800/1252 top5_error: 0.511, top1_error: 0.749, loss: 3.693, lr: 0.493
+[2020-12-02 21:03:52,042][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	850/1252 top5_error: 0.432, top1_error: 0.686, loss: 3.242, lr: 0.493
+[2020-12-02 21:03:52,301][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	850/1252 top5_error: 0.510, top1_error: 0.747, loss: 3.686, lr: 0.493
+[2020-12-02 21:07:40,494][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	900/1252 top5_error: 0.430, top1_error: 0.684, loss: 3.233, lr: 0.493
+[2020-12-02 21:07:40,980][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	900/1252 top5_error: 0.508, top1_error: 0.746, loss: 3.678, lr: 0.493
+[2020-12-02 21:11:21,463][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	950/1252 top5_error: 0.428, top1_error: 0.683, loss: 3.224, lr: 0.493
+[2020-12-02 21:11:21,747][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	950/1252 top5_error: 0.507, top1_error: 0.745, loss: 3.671, lr: 0.493
+[2020-12-02 21:15:02,891][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	1000/1252 top5_error: 0.427, top1_error: 0.681, loss: 3.216, lr: 0.493
+[2020-12-02 21:15:03,275][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	1000/1252 top5_error: 0.505, top1_error: 0.744, loss: 3.664, lr: 0.493
+[2020-12-02 21:18:45,279][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	1050/1252 top5_error: 0.426, top1_error: 0.680, loss: 3.208, lr: 0.493
+[2020-12-02 21:18:45,623][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	1050/1252 top5_error: 0.504, top1_error: 0.742, loss: 3.657, lr: 0.493
+[2020-12-02 21:22:27,938][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	1100/1252 top5_error: 0.424, top1_error: 0.679, loss: 3.200, lr: 0.493
+[2020-12-02 21:22:28,264][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	1100/1252 top5_error: 0.503, top1_error: 0.742, loss: 3.650, lr: 0.493
+[2020-12-02 21:26:12,883][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	1150/1252 top5_error: 0.423, top1_error: 0.677, loss: 3.192, lr: 0.493
+[2020-12-02 21:26:13,285][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	1150/1252 top5_error: 0.501, top1_error: 0.740, loss: 3.643, lr: 0.493
+[2020-12-02 21:29:58,229][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	1200/1252 top5_error: 0.421, top1_error: 0.676, loss: 3.185, lr: 0.493
+[2020-12-02 21:29:58,642][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	1200/1252 top5_error: 0.500, top1_error: 0.739, loss: 3.636, lr: 0.493
+[2020-12-02 21:33:40,397][train1126_uneven.py][line:552][INFO] train	1.0	epoch:3/250	1250/1252 top5_error: 0.420, top1_error: 0.675, loss: 3.177, lr: 0.493
+[2020-12-02 21:33:40,830][train1126_uneven.py][line:552][INFO] train	0.25	epoch:3/250	1250/1252 top5_error: 0.499, top1_error: 0.738, loss: 3.629, lr: 0.493
+[2020-12-02 21:33:49,663][train1126_uneven.py][line:576][INFO] train	1.0	epoch:3/250	1251/1252 top5_error: 0.420, top1_error: 0.675, loss: 3.177, lr: 0.493
+[2020-12-02 21:33:50,189][train1126_uneven.py][line:576][INFO] train	0.25	epoch:3/250	1251/1252 top5_error: 0.499, top1_error: 0.738, loss: 3.630, lr: 0.493
+[2020-12-02 21:34:34,919][train1126_uneven.py][line:552][INFO] val	1.0	epoch:3/250	0/49 top5_error: 0.265, top1_error: 0.525, loss: 2.404
+[2020-12-02 21:34:34,921][train1126_uneven.py][line:552][INFO] val	0.75	epoch:3/250	0/49 top5_error: 0.543, top1_error: 0.767, loss: 4.425
+[2020-12-02 21:34:34,922][train1126_uneven.py][line:552][INFO] val	0.5	epoch:3/250	0/49 top5_error: 0.521, top1_error: 0.757, loss: 3.992
+[2020-12-02 21:34:34,923][train1126_uneven.py][line:552][INFO] val	0.25	epoch:3/250	0/49 top5_error: 0.367, top1_error: 0.655, loss: 3.615
+[2020-12-02 21:37:04,075][train1126_uneven.py][line:576][INFO] val	1.0	epoch:3/250	48/49 top5_error: 0.434, top1_error: 0.698, loss: 3.560
+[2020-12-02 21:37:04,095][train1126_uneven.py][line:576][INFO] val	0.75	epoch:3/250	48/49 top5_error: 0.663, top1_error: 0.849, loss: 5.143
+[2020-12-02 21:37:04,113][train1126_uneven.py][line:576][INFO] val	0.5	epoch:3/250	48/49 top5_error: 0.639, top1_error: 0.840, loss: 4.559
+[2020-12-02 21:37:04,132][train1126_uneven.py][line:576][INFO] val	0.25	epoch:3/250	48/49 top5_error: 0.524, top1_error: 0.764, loss: 4.112
+[2020-12-02 21:37:04,132][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814], [0.99308, 0.88818, 0.84894], [0.98474, 0.87416, 0.84022], [0.8985, 0.8035, 0.76354]]
+[2020-12-02 21:37:04,133][train1126_uneven.py][line:713][INFO] 
+Epoch 4
+[2020-12-02 21:37:04,133][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-02 21:37:04,133][train1126_uneven.py][line:715][INFO] epoch time 5925.77406835556
+[2020-12-02 21:38:14,821][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	0/1252 top5_error: 0.380, top1_error: 0.643, loss: 2.985, lr: 0.492
+[2020-12-02 21:38:14,823][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	0/1252 top5_error: 0.464, top1_error: 0.725, loss: 3.529, lr: 0.492
+[2020-12-02 21:42:46,563][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	50/1252 top5_error: 0.385, top1_error: 0.640, loss: 2.978, lr: 0.492
+[2020-12-02 21:42:46,596][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	50/1252 top5_error: 0.467, top1_error: 0.709, loss: 3.464, lr: 0.492
+[2020-12-02 21:46:35,743][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	100/1252 top5_error: 0.382, top1_error: 0.639, loss: 2.966, lr: 0.492
+[2020-12-02 21:46:35,784][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	100/1252 top5_error: 0.465, top1_error: 0.709, loss: 3.451, lr: 0.492
+[2020-12-02 21:50:17,684][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	150/1252 top5_error: 0.381, top1_error: 0.638, loss: 2.958, lr: 0.492
+[2020-12-02 21:50:17,735][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	150/1252 top5_error: 0.463, top1_error: 0.708, loss: 3.446, lr: 0.492
+[2020-12-02 21:54:01,783][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	200/1252 top5_error: 0.379, top1_error: 0.636, loss: 2.949, lr: 0.492
+[2020-12-02 21:54:01,863][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	200/1252 top5_error: 0.461, top1_error: 0.707, loss: 3.436, lr: 0.492
+[2020-12-02 21:57:48,326][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	250/1252 top5_error: 0.377, top1_error: 0.635, loss: 2.943, lr: 0.492
+[2020-12-02 21:57:48,424][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	250/1252 top5_error: 0.460, top1_error: 0.705, loss: 3.428, lr: 0.492
+[2020-12-02 22:01:34,206][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	300/1252 top5_error: 0.376, top1_error: 0.634, loss: 2.936, lr: 0.492
+[2020-12-02 22:01:34,325][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	300/1252 top5_error: 0.458, top1_error: 0.705, loss: 3.423, lr: 0.492
+[2020-12-02 22:05:23,183][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	350/1252 top5_error: 0.376, top1_error: 0.633, loss: 2.934, lr: 0.492
+[2020-12-02 22:05:23,320][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	350/1252 top5_error: 0.458, top1_error: 0.704, loss: 3.420, lr: 0.492
+[2020-12-02 22:09:05,940][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	400/1252 top5_error: 0.375, top1_error: 0.633, loss: 2.932, lr: 0.492
+[2020-12-02 22:09:06,060][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	400/1252 top5_error: 0.458, top1_error: 0.704, loss: 3.419, lr: 0.492
+[2020-12-02 22:12:46,985][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	450/1252 top5_error: 0.374, top1_error: 0.632, loss: 2.925, lr: 0.492
+[2020-12-02 22:12:47,164][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	450/1252 top5_error: 0.457, top1_error: 0.704, loss: 3.413, lr: 0.492
+[2020-12-02 22:16:22,791][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	500/1252 top5_error: 0.373, top1_error: 0.631, loss: 2.921, lr: 0.492
+[2020-12-02 22:16:22,946][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	500/1252 top5_error: 0.456, top1_error: 0.703, loss: 3.410, lr: 0.492
+[2020-12-02 22:19:59,555][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	550/1252 top5_error: 0.373, top1_error: 0.630, loss: 2.917, lr: 0.492
+[2020-12-02 22:19:59,776][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	550/1252 top5_error: 0.456, top1_error: 0.702, loss: 3.406, lr: 0.492
+[2020-12-02 22:23:44,580][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	600/1252 top5_error: 0.372, top1_error: 0.629, loss: 2.913, lr: 0.492
+[2020-12-02 22:23:44,814][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	600/1252 top5_error: 0.455, top1_error: 0.702, loss: 3.402, lr: 0.492
+[2020-12-02 22:27:29,675][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	650/1252 top5_error: 0.371, top1_error: 0.629, loss: 2.907, lr: 0.491
+[2020-12-02 22:27:30,065][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	650/1252 top5_error: 0.454, top1_error: 0.701, loss: 3.398, lr: 0.491
+[2020-12-02 22:31:17,064][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	700/1252 top5_error: 0.370, top1_error: 0.628, loss: 2.903, lr: 0.491
+[2020-12-02 22:31:17,335][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	700/1252 top5_error: 0.453, top1_error: 0.700, loss: 3.394, lr: 0.491
+[2020-12-02 22:35:13,439][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	750/1252 top5_error: 0.370, top1_error: 0.627, loss: 2.900, lr: 0.491
+[2020-12-02 22:35:13,691][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	750/1252 top5_error: 0.453, top1_error: 0.700, loss: 3.391, lr: 0.491
+[2020-12-02 22:39:11,273][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	800/1252 top5_error: 0.369, top1_error: 0.627, loss: 2.895, lr: 0.491
+[2020-12-02 22:39:11,597][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	800/1252 top5_error: 0.452, top1_error: 0.699, loss: 3.387, lr: 0.491
+[2020-12-02 22:42:51,576][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	850/1252 top5_error: 0.368, top1_error: 0.626, loss: 2.892, lr: 0.491
+[2020-12-02 22:42:51,921][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	850/1252 top5_error: 0.451, top1_error: 0.699, loss: 3.384, lr: 0.491
+[2020-12-02 22:46:34,741][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	900/1252 top5_error: 0.367, top1_error: 0.625, loss: 2.888, lr: 0.491
+[2020-12-02 22:46:35,099][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	900/1252 top5_error: 0.451, top1_error: 0.698, loss: 3.381, lr: 0.491
+[2020-12-02 22:50:24,414][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	950/1252 top5_error: 0.367, top1_error: 0.625, loss: 2.884, lr: 0.491
+[2020-12-02 22:50:24,793][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	950/1252 top5_error: 0.450, top1_error: 0.698, loss: 3.377, lr: 0.491
+[2020-12-02 22:54:06,986][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	1000/1252 top5_error: 0.366, top1_error: 0.624, loss: 2.879, lr: 0.491
+[2020-12-02 22:54:07,364][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	1000/1252 top5_error: 0.450, top1_error: 0.697, loss: 3.374, lr: 0.491
+[2020-12-02 22:57:51,943][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	1050/1252 top5_error: 0.365, top1_error: 0.623, loss: 2.876, lr: 0.491
+[2020-12-02 22:57:52,381][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	1050/1252 top5_error: 0.449, top1_error: 0.697, loss: 3.371, lr: 0.491
+[2020-12-02 23:01:32,694][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	1100/1252 top5_error: 0.365, top1_error: 0.622, loss: 2.872, lr: 0.491
+[2020-12-02 23:01:33,051][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	1100/1252 top5_error: 0.449, top1_error: 0.696, loss: 3.367, lr: 0.491
+[2020-12-02 23:05:16,921][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	1150/1252 top5_error: 0.364, top1_error: 0.622, loss: 2.868, lr: 0.491
+[2020-12-02 23:05:17,330][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	1150/1252 top5_error: 0.448, top1_error: 0.696, loss: 3.363, lr: 0.491
+[2020-12-02 23:09:05,330][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	1200/1252 top5_error: 0.363, top1_error: 0.621, loss: 2.865, lr: 0.491
+[2020-12-02 23:09:05,737][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	1200/1252 top5_error: 0.447, top1_error: 0.695, loss: 3.362, lr: 0.491
+[2020-12-02 23:12:52,366][train1126_uneven.py][line:552][INFO] train	1.0	epoch:4/250	1250/1252 top5_error: 0.363, top1_error: 0.621, loss: 2.861, lr: 0.491
+[2020-12-02 23:12:52,832][train1126_uneven.py][line:552][INFO] train	0.25	epoch:4/250	1250/1252 top5_error: 0.447, top1_error: 0.695, loss: 3.359, lr: 0.491
+[2020-12-02 23:13:01,657][train1126_uneven.py][line:576][INFO] train	1.0	epoch:4/250	1251/1252 top5_error: 0.363, top1_error: 0.621, loss: 2.862, lr: 0.491
+[2020-12-02 23:13:02,188][train1126_uneven.py][line:576][INFO] train	0.25	epoch:4/250	1251/1252 top5_error: 0.447, top1_error: 0.695, loss: 3.360, lr: 0.491
+[2020-12-02 23:13:45,368][train1126_uneven.py][line:552][INFO] val	1.0	epoch:4/250	0/49 top5_error: 0.218, top1_error: 0.475, loss: 2.105
+[2020-12-02 23:13:45,370][train1126_uneven.py][line:552][INFO] val	0.75	epoch:4/250	0/49 top5_error: 0.372, top1_error: 0.617, loss: 3.125
+[2020-12-02 23:13:45,371][train1126_uneven.py][line:552][INFO] val	0.5	epoch:4/250	0/49 top5_error: 0.558, top1_error: 0.778, loss: 4.346
+[2020-12-02 23:13:45,372][train1126_uneven.py][line:552][INFO] val	0.25	epoch:4/250	0/49 top5_error: 0.312, top1_error: 0.580, loss: 3.001
+[2020-12-02 23:16:11,191][train1126_uneven.py][line:576][INFO] val	1.0	epoch:4/250	48/49 top5_error: 0.374, top1_error: 0.640, loss: 3.107
+[2020-12-02 23:16:11,210][train1126_uneven.py][line:576][INFO] val	0.75	epoch:4/250	48/49 top5_error: 0.504, top1_error: 0.748, loss: 3.770
+[2020-12-02 23:16:11,229][train1126_uneven.py][line:576][INFO] val	0.5	epoch:4/250	48/49 top5_error: 0.647, top1_error: 0.842, loss: 4.487
+[2020-12-02 23:16:11,251][train1126_uneven.py][line:576][INFO] val	0.25	epoch:4/250	48/49 top5_error: 0.484, top1_error: 0.732, loss: 3.864
+[2020-12-02 23:16:11,252][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046], [0.99308, 0.88818, 0.84894, 0.74786], [0.98474, 0.87416, 0.84022, 0.84196], [0.8985, 0.8035, 0.76354, 0.73242]]
+[2020-12-02 23:16:11,252][train1126_uneven.py][line:713][INFO] 
+Epoch 5
+[2020-12-02 23:16:11,252][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-02 23:16:11,252][train1126_uneven.py][line:715][INFO] epoch time 5947.119536399841
+[2020-12-02 23:17:24,248][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	0/1252 top5_error: 0.352, top1_error: 0.578, loss: 2.787, lr: 0.490
+[2020-12-02 23:17:24,252][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	0/1252 top5_error: 0.429, top1_error: 0.677, loss: 3.332, lr: 0.490
+[2020-12-02 23:21:58,830][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	50/1252 top5_error: 0.346, top1_error: 0.605, loss: 2.764, lr: 0.490
+[2020-12-02 23:21:58,848][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	50/1252 top5_error: 0.432, top1_error: 0.684, loss: 3.288, lr: 0.490
+[2020-12-02 23:25:45,834][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	100/1252 top5_error: 0.340, top1_error: 0.598, loss: 2.737, lr: 0.490
+[2020-12-02 23:25:45,876][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	100/1252 top5_error: 0.427, top1_error: 0.678, loss: 3.265, lr: 0.490
+[2020-12-02 23:29:30,688][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	150/1252 top5_error: 0.338, top1_error: 0.596, loss: 2.721, lr: 0.490
+[2020-12-02 23:29:30,739][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	150/1252 top5_error: 0.425, top1_error: 0.675, loss: 3.247, lr: 0.490
+[2020-12-02 23:33:19,475][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	200/1252 top5_error: 0.339, top1_error: 0.596, loss: 2.724, lr: 0.490
+[2020-12-02 23:33:19,559][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	200/1252 top5_error: 0.426, top1_error: 0.676, loss: 3.249, lr: 0.490
+[2020-12-02 23:37:16,717][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	250/1252 top5_error: 0.338, top1_error: 0.596, loss: 2.723, lr: 0.490
+[2020-12-02 23:37:16,860][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	250/1252 top5_error: 0.426, top1_error: 0.676, loss: 3.248, lr: 0.490
+[2020-12-02 23:41:11,450][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	300/1252 top5_error: 0.338, top1_error: 0.596, loss: 2.723, lr: 0.490
+[2020-12-02 23:41:11,570][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	300/1252 top5_error: 0.425, top1_error: 0.675, loss: 3.245, lr: 0.490
+[2020-12-02 23:44:59,464][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	350/1252 top5_error: 0.337, top1_error: 0.596, loss: 2.720, lr: 0.490
+[2020-12-02 23:44:59,576][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	350/1252 top5_error: 0.424, top1_error: 0.675, loss: 3.243, lr: 0.490
+[2020-12-02 23:48:56,924][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	400/1252 top5_error: 0.337, top1_error: 0.595, loss: 2.716, lr: 0.490
+[2020-12-02 23:48:57,047][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	400/1252 top5_error: 0.424, top1_error: 0.674, loss: 3.239, lr: 0.490
+[2020-12-02 23:52:44,402][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	450/1252 top5_error: 0.337, top1_error: 0.594, loss: 2.713, lr: 0.490
+[2020-12-02 23:52:44,559][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	450/1252 top5_error: 0.423, top1_error: 0.673, loss: 3.237, lr: 0.490
+[2020-12-02 23:56:36,653][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	500/1252 top5_error: 0.336, top1_error: 0.594, loss: 2.711, lr: 0.490
+[2020-12-02 23:56:36,850][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	500/1252 top5_error: 0.423, top1_error: 0.674, loss: 3.235, lr: 0.490
+[2020-12-03 00:00:25,739][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	550/1252 top5_error: 0.336, top1_error: 0.593, loss: 2.708, lr: 0.490
+[2020-12-03 00:00:25,915][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	550/1252 top5_error: 0.422, top1_error: 0.673, loss: 3.233, lr: 0.490
+[2020-12-03 00:04:07,132][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	600/1252 top5_error: 0.335, top1_error: 0.593, loss: 2.706, lr: 0.490
+[2020-12-03 00:04:07,372][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	600/1252 top5_error: 0.422, top1_error: 0.673, loss: 3.232, lr: 0.490
+[2020-12-03 00:07:43,351][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	650/1252 top5_error: 0.335, top1_error: 0.593, loss: 2.705, lr: 0.489
+[2020-12-03 00:07:43,620][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	650/1252 top5_error: 0.422, top1_error: 0.672, loss: 3.231, lr: 0.489
+[2020-12-03 00:11:28,185][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	700/1252 top5_error: 0.335, top1_error: 0.593, loss: 2.704, lr: 0.489
+[2020-12-03 00:11:28,416][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	700/1252 top5_error: 0.422, top1_error: 0.672, loss: 3.230, lr: 0.489
+[2020-12-03 00:15:09,878][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	750/1252 top5_error: 0.335, top1_error: 0.592, loss: 2.702, lr: 0.489
+[2020-12-03 00:15:10,169][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	750/1252 top5_error: 0.422, top1_error: 0.672, loss: 3.228, lr: 0.489
+[2020-12-03 00:18:53,056][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	800/1252 top5_error: 0.335, top1_error: 0.592, loss: 2.701, lr: 0.489
+[2020-12-03 00:18:53,473][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	800/1252 top5_error: 0.421, top1_error: 0.672, loss: 3.227, lr: 0.489
+[2020-12-03 00:22:36,227][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	850/1252 top5_error: 0.334, top1_error: 0.592, loss: 2.700, lr: 0.489
+[2020-12-03 00:22:36,524][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	850/1252 top5_error: 0.421, top1_error: 0.672, loss: 3.226, lr: 0.489
+[2020-12-03 00:26:16,883][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	900/1252 top5_error: 0.334, top1_error: 0.592, loss: 2.697, lr: 0.489
+[2020-12-03 00:26:17,235][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	900/1252 top5_error: 0.421, top1_error: 0.671, loss: 3.224, lr: 0.489
+[2020-12-03 00:30:03,621][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	950/1252 top5_error: 0.333, top1_error: 0.591, loss: 2.695, lr: 0.489
+[2020-12-03 00:30:04,005][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	950/1252 top5_error: 0.420, top1_error: 0.671, loss: 3.221, lr: 0.489
+[2020-12-03 00:33:45,945][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	1000/1252 top5_error: 0.333, top1_error: 0.591, loss: 2.692, lr: 0.489
+[2020-12-03 00:33:46,286][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	1000/1252 top5_error: 0.420, top1_error: 0.671, loss: 3.219, lr: 0.489
+[2020-12-03 00:37:28,283][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	1050/1252 top5_error: 0.333, top1_error: 0.590, loss: 2.690, lr: 0.489
+[2020-12-03 00:37:28,739][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	1050/1252 top5_error: 0.420, top1_error: 0.670, loss: 3.218, lr: 0.489
+[2020-12-03 00:41:13,174][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	1100/1252 top5_error: 0.332, top1_error: 0.590, loss: 2.688, lr: 0.489
+[2020-12-03 00:41:13,502][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	1100/1252 top5_error: 0.420, top1_error: 0.670, loss: 3.216, lr: 0.489
+[2020-12-03 00:44:55,221][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	1150/1252 top5_error: 0.332, top1_error: 0.589, loss: 2.686, lr: 0.489
+[2020-12-03 00:44:55,676][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	1150/1252 top5_error: 0.419, top1_error: 0.670, loss: 3.214, lr: 0.489
+[2020-12-03 00:48:37,535][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	1200/1252 top5_error: 0.332, top1_error: 0.589, loss: 2.684, lr: 0.489
+[2020-12-03 00:48:37,993][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	1200/1252 top5_error: 0.419, top1_error: 0.670, loss: 3.213, lr: 0.489
+[2020-12-03 00:52:19,027][train1126_uneven.py][line:552][INFO] train	1.0	epoch:5/250	1250/1252 top5_error: 0.331, top1_error: 0.588, loss: 2.682, lr: 0.489
+[2020-12-03 00:52:19,474][train1126_uneven.py][line:552][INFO] train	0.25	epoch:5/250	1250/1252 top5_error: 0.419, top1_error: 0.669, loss: 3.211, lr: 0.489
+[2020-12-03 00:52:27,741][train1126_uneven.py][line:576][INFO] train	1.0	epoch:5/250	1251/1252 top5_error: 0.331, top1_error: 0.588, loss: 2.682, lr: 0.489
+[2020-12-03 00:52:28,220][train1126_uneven.py][line:576][INFO] train	0.25	epoch:5/250	1251/1252 top5_error: 0.419, top1_error: 0.669, loss: 3.212, lr: 0.489
+[2020-12-03 00:53:11,729][train1126_uneven.py][line:552][INFO] val	1.0	epoch:5/250	0/49 top5_error: 0.303, top1_error: 0.554, loss: 2.674
+[2020-12-03 00:53:11,730][train1126_uneven.py][line:552][INFO] val	0.75	epoch:5/250	0/49 top5_error: 0.267, top1_error: 0.512, loss: 2.377
+[2020-12-03 00:53:11,731][train1126_uneven.py][line:552][INFO] val	0.5	epoch:5/250	0/49 top5_error: 0.354, top1_error: 0.607, loss: 2.904
+[2020-12-03 00:53:11,731][train1126_uneven.py][line:552][INFO] val	0.25	epoch:5/250	0/49 top5_error: 0.508, top1_error: 0.730, loss: 3.969
+[2020-12-03 00:55:32,921][train1126_uneven.py][line:576][INFO] val	1.0	epoch:5/250	48/49 top5_error: 0.432, top1_error: 0.683, loss: 3.421
+[2020-12-03 00:55:32,940][train1126_uneven.py][line:576][INFO] val	0.75	epoch:5/250	48/49 top5_error: 0.433, top1_error: 0.681, loss: 3.277
+[2020-12-03 00:55:32,958][train1126_uneven.py][line:576][INFO] val	0.5	epoch:5/250	48/49 top5_error: 0.519, top1_error: 0.748, loss: 3.747
+[2020-12-03 00:55:32,977][train1126_uneven.py][line:576][INFO] val	0.25	epoch:5/250	48/49 top5_error: 0.640, top1_error: 0.829, loss: 4.576
+[2020-12-03 00:55:32,977][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892]]
+[2020-12-03 00:55:32,977][train1126_uneven.py][line:713][INFO] 
+Epoch 6
+[2020-12-03 00:55:32,977][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 00:55:32,977][train1126_uneven.py][line:715][INFO] epoch time 5961.724692106247
+[2020-12-03 00:56:58,359][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	0/1252 top5_error: 0.332, top1_error: 0.568, loss: 2.619, lr: 0.488
+[2020-12-03 00:56:58,361][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	0/1252 top5_error: 0.424, top1_error: 0.661, loss: 3.249, lr: 0.488
+[2020-12-03 01:01:32,612][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	50/1252 top5_error: 0.320, top1_error: 0.576, loss: 2.620, lr: 0.488
+[2020-12-03 01:01:32,628][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	50/1252 top5_error: 0.412, top1_error: 0.663, loss: 3.171, lr: 0.488
+[2020-12-03 01:05:05,146][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	100/1252 top5_error: 0.319, top1_error: 0.577, loss: 2.614, lr: 0.488
+[2020-12-03 01:05:05,187][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	100/1252 top5_error: 0.410, top1_error: 0.661, loss: 3.158, lr: 0.488
+[2020-12-03 01:08:42,404][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	150/1252 top5_error: 0.319, top1_error: 0.576, loss: 2.614, lr: 0.488
+[2020-12-03 01:08:42,456][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	150/1252 top5_error: 0.409, top1_error: 0.661, loss: 3.159, lr: 0.488
+[2020-12-03 01:12:20,241][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	200/1252 top5_error: 0.318, top1_error: 0.575, loss: 2.608, lr: 0.488
+[2020-12-03 01:12:20,306][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	200/1252 top5_error: 0.408, top1_error: 0.660, loss: 3.155, lr: 0.488
+[2020-12-03 01:16:02,315][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	250/1252 top5_error: 0.316, top1_error: 0.574, loss: 2.599, lr: 0.488
+[2020-12-03 01:16:02,418][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	250/1252 top5_error: 0.407, top1_error: 0.659, loss: 3.146, lr: 0.488
+[2020-12-03 01:19:35,668][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	300/1252 top5_error: 0.316, top1_error: 0.573, loss: 2.593, lr: 0.488
+[2020-12-03 01:19:35,788][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	300/1252 top5_error: 0.406, top1_error: 0.658, loss: 3.142, lr: 0.488
+[2020-12-03 01:23:13,373][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	350/1252 top5_error: 0.316, top1_error: 0.573, loss: 2.593, lr: 0.488
+[2020-12-03 01:23:13,510][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	350/1252 top5_error: 0.407, top1_error: 0.658, loss: 3.142, lr: 0.488
+[2020-12-03 01:26:59,426][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	400/1252 top5_error: 0.316, top1_error: 0.572, loss: 2.588, lr: 0.488
+[2020-12-03 01:26:59,586][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	400/1252 top5_error: 0.405, top1_error: 0.657, loss: 3.137, lr: 0.488
+[2020-12-03 01:30:36,694][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	450/1252 top5_error: 0.316, top1_error: 0.572, loss: 2.588, lr: 0.488
+[2020-12-03 01:30:36,873][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	450/1252 top5_error: 0.406, top1_error: 0.657, loss: 3.138, lr: 0.488
+[2020-12-03 01:34:11,062][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	500/1252 top5_error: 0.315, top1_error: 0.572, loss: 2.588, lr: 0.488
+[2020-12-03 01:34:11,256][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	500/1252 top5_error: 0.405, top1_error: 0.657, loss: 3.137, lr: 0.488
+[2020-12-03 01:37:51,935][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	550/1252 top5_error: 0.316, top1_error: 0.572, loss: 2.589, lr: 0.488
+[2020-12-03 01:37:52,166][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	550/1252 top5_error: 0.406, top1_error: 0.657, loss: 3.138, lr: 0.488
+[2020-12-03 01:41:28,981][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	600/1252 top5_error: 0.315, top1_error: 0.572, loss: 2.588, lr: 0.488
+[2020-12-03 01:41:29,169][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	600/1252 top5_error: 0.405, top1_error: 0.657, loss: 3.137, lr: 0.488
+[2020-12-03 01:45:09,326][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	650/1252 top5_error: 0.315, top1_error: 0.572, loss: 2.589, lr: 0.487
+[2020-12-03 01:45:09,575][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	650/1252 top5_error: 0.406, top1_error: 0.657, loss: 3.138, lr: 0.487
+[2020-12-03 01:48:49,755][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	700/1252 top5_error: 0.315, top1_error: 0.571, loss: 2.588, lr: 0.487
+[2020-12-03 01:48:49,962][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	700/1252 top5_error: 0.405, top1_error: 0.657, loss: 3.137, lr: 0.487
+[2020-12-03 01:52:32,712][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	750/1252 top5_error: 0.315, top1_error: 0.571, loss: 2.585, lr: 0.487
+[2020-12-03 01:52:32,938][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	750/1252 top5_error: 0.405, top1_error: 0.657, loss: 3.136, lr: 0.487
+[2020-12-03 01:56:10,162][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	800/1252 top5_error: 0.314, top1_error: 0.571, loss: 2.584, lr: 0.487
+[2020-12-03 01:56:10,489][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	800/1252 top5_error: 0.405, top1_error: 0.657, loss: 3.135, lr: 0.487
+[2020-12-03 01:59:50,992][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	850/1252 top5_error: 0.314, top1_error: 0.570, loss: 2.581, lr: 0.487
+[2020-12-03 01:59:51,350][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	850/1252 top5_error: 0.404, top1_error: 0.656, loss: 3.132, lr: 0.487
+[2020-12-03 02:03:34,092][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	900/1252 top5_error: 0.314, top1_error: 0.570, loss: 2.579, lr: 0.487
+[2020-12-03 02:03:34,448][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	900/1252 top5_error: 0.404, top1_error: 0.656, loss: 3.131, lr: 0.487
+[2020-12-03 02:07:15,634][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	950/1252 top5_error: 0.313, top1_error: 0.570, loss: 2.577, lr: 0.487
+[2020-12-03 02:07:15,983][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	950/1252 top5_error: 0.404, top1_error: 0.656, loss: 3.129, lr: 0.487
+[2020-12-03 02:11:02,060][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	1000/1252 top5_error: 0.313, top1_error: 0.569, loss: 2.576, lr: 0.487
+[2020-12-03 02:11:02,457][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	1000/1252 top5_error: 0.403, top1_error: 0.656, loss: 3.129, lr: 0.487
+[2020-12-03 02:14:50,684][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	1050/1252 top5_error: 0.313, top1_error: 0.569, loss: 2.575, lr: 0.487
+[2020-12-03 02:14:51,085][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	1050/1252 top5_error: 0.403, top1_error: 0.656, loss: 3.128, lr: 0.487
+[2020-12-03 02:18:34,056][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	1100/1252 top5_error: 0.313, top1_error: 0.569, loss: 2.574, lr: 0.487
+[2020-12-03 02:18:34,383][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	1100/1252 top5_error: 0.403, top1_error: 0.656, loss: 3.127, lr: 0.487
+[2020-12-03 02:22:18,876][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	1150/1252 top5_error: 0.312, top1_error: 0.569, loss: 2.572, lr: 0.487
+[2020-12-03 02:22:19,271][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	1150/1252 top5_error: 0.403, top1_error: 0.655, loss: 3.126, lr: 0.487
+[2020-12-03 02:26:10,795][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	1200/1252 top5_error: 0.312, top1_error: 0.569, loss: 2.571, lr: 0.487
+[2020-12-03 02:26:11,231][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	1200/1252 top5_error: 0.403, top1_error: 0.655, loss: 3.125, lr: 0.487
+[2020-12-03 02:29:58,938][train1126_uneven.py][line:552][INFO] train	1.0	epoch:6/250	1250/1252 top5_error: 0.312, top1_error: 0.568, loss: 2.571, lr: 0.487
+[2020-12-03 02:29:59,438][train1126_uneven.py][line:552][INFO] train	0.25	epoch:6/250	1250/1252 top5_error: 0.403, top1_error: 0.655, loss: 3.124, lr: 0.487
+[2020-12-03 02:30:08,299][train1126_uneven.py][line:576][INFO] train	1.0	epoch:6/250	1251/1252 top5_error: 0.312, top1_error: 0.568, loss: 2.571, lr: 0.487
+[2020-12-03 02:30:08,865][train1126_uneven.py][line:576][INFO] train	0.25	epoch:6/250	1251/1252 top5_error: 0.403, top1_error: 0.655, loss: 3.125, lr: 0.487
+[2020-12-03 02:30:52,887][train1126_uneven.py][line:552][INFO] val	1.0	epoch:6/250	0/49 top5_error: 0.182, top1_error: 0.397, loss: 1.725
+[2020-12-03 02:30:52,888][train1126_uneven.py][line:552][INFO] val	0.75	epoch:6/250	0/49 top5_error: 0.216, top1_error: 0.455, loss: 1.956
+[2020-12-03 02:30:52,888][train1126_uneven.py][line:552][INFO] val	0.5	epoch:6/250	0/49 top5_error: 0.265, top1_error: 0.525, loss: 2.302
+[2020-12-03 02:30:52,889][train1126_uneven.py][line:552][INFO] val	0.25	epoch:6/250	0/49 top5_error: 0.305, top1_error: 0.562, loss: 2.928
+[2020-12-03 02:33:17,827][train1126_uneven.py][line:576][INFO] val	1.0	epoch:6/250	48/49 top5_error: 0.316, top1_error: 0.586, loss: 2.689
+[2020-12-03 02:33:17,846][train1126_uneven.py][line:576][INFO] val	0.75	epoch:6/250	48/49 top5_error: 0.378, top1_error: 0.643, loss: 2.991
+[2020-12-03 02:33:17,865][train1126_uneven.py][line:576][INFO] val	0.5	epoch:6/250	48/49 top5_error: 0.437, top1_error: 0.694, loss: 3.294
+[2020-12-03 02:33:17,883][train1126_uneven.py][line:576][INFO] val	0.25	epoch:6/250	48/49 top5_error: 0.431, top1_error: 0.689, loss: 3.498
+[2020-12-03 02:33:17,883][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894]]
+[2020-12-03 02:33:17,883][train1126_uneven.py][line:713][INFO] 
+Epoch 7
+[2020-12-03 02:33:17,883][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 02:33:17,883][train1126_uneven.py][line:715][INFO] epoch time 5864.906025648117
+[2020-12-03 02:34:20,094][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	0/1252 top5_error: 0.302, top1_error: 0.557, loss: 2.487, lr: 0.486
+[2020-12-03 02:34:20,105][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	0/1252 top5_error: 0.382, top1_error: 0.630, loss: 3.071, lr: 0.486
+[2020-12-03 02:40:08,443][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	50/1252 top5_error: 0.300, top1_error: 0.556, loss: 2.492, lr: 0.486
+[2020-12-03 02:40:08,464][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	50/1252 top5_error: 0.393, top1_error: 0.647, loss: 3.085, lr: 0.486
+[2020-12-03 02:44:02,267][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	100/1252 top5_error: 0.301, top1_error: 0.555, loss: 2.497, lr: 0.486
+[2020-12-03 02:44:02,313][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	100/1252 top5_error: 0.393, top1_error: 0.647, loss: 3.078, lr: 0.486
+[2020-12-03 02:47:39,416][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	150/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.492, lr: 0.486
+[2020-12-03 02:47:39,478][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	150/1252 top5_error: 0.393, top1_error: 0.646, loss: 3.072, lr: 0.486
+[2020-12-03 02:51:18,413][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	200/1252 top5_error: 0.300, top1_error: 0.553, loss: 2.492, lr: 0.486
+[2020-12-03 02:51:18,485][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	200/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.074, lr: 0.486
+[2020-12-03 02:55:00,387][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	250/1252 top5_error: 0.301, top1_error: 0.554, loss: 2.495, lr: 0.486
+[2020-12-03 02:55:00,489][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	250/1252 top5_error: 0.394, top1_error: 0.646, loss: 3.075, lr: 0.486
+[2020-12-03 02:58:40,692][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	300/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.493, lr: 0.486
+[2020-12-03 02:58:40,817][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	300/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.073, lr: 0.486
+[2020-12-03 03:02:25,285][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	350/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.494, lr: 0.486
+[2020-12-03 03:02:25,429][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	350/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.074, lr: 0.486
+[2020-12-03 03:06:16,610][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	400/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.493, lr: 0.486
+[2020-12-03 03:06:16,775][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	400/1252 top5_error: 0.393, top1_error: 0.646, loss: 3.073, lr: 0.486
+[2020-12-03 03:10:01,686][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	450/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.491, lr: 0.486
+[2020-12-03 03:10:01,828][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	450/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.071, lr: 0.486
+[2020-12-03 03:13:46,513][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	500/1252 top5_error: 0.299, top1_error: 0.554, loss: 2.490, lr: 0.486
+[2020-12-03 03:13:46,728][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	500/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.071, lr: 0.486
+[2020-12-03 03:17:31,287][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	550/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.491, lr: 0.486
+[2020-12-03 03:17:31,502][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	550/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.071, lr: 0.486
+[2020-12-03 03:21:10,357][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	600/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.493, lr: 0.486
+[2020-12-03 03:21:10,609][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	600/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.071, lr: 0.486
+[2020-12-03 03:24:52,825][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	650/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.492, lr: 0.485
+[2020-12-03 03:24:53,079][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	650/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.071, lr: 0.485
+[2020-12-03 03:28:34,425][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	700/1252 top5_error: 0.300, top1_error: 0.554, loss: 2.492, lr: 0.485
+[2020-12-03 03:28:34,702][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	700/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.071, lr: 0.485
+[2020-12-03 03:32:22,492][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	750/1252 top5_error: 0.299, top1_error: 0.553, loss: 2.491, lr: 0.485
+[2020-12-03 03:32:22,732][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	750/1252 top5_error: 0.393, top1_error: 0.645, loss: 3.071, lr: 0.485
+[2020-12-03 03:36:03,335][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	800/1252 top5_error: 0.299, top1_error: 0.554, loss: 2.491, lr: 0.485
+[2020-12-03 03:36:03,672][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	800/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.071, lr: 0.485
+[2020-12-03 03:39:58,365][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	850/1252 top5_error: 0.299, top1_error: 0.553, loss: 2.491, lr: 0.485
+[2020-12-03 03:39:58,703][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	850/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.070, lr: 0.485
+[2020-12-03 03:43:36,002][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	900/1252 top5_error: 0.299, top1_error: 0.554, loss: 2.490, lr: 0.485
+[2020-12-03 03:43:36,277][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	900/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.069, lr: 0.485
+[2020-12-03 03:47:10,003][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	950/1252 top5_error: 0.299, top1_error: 0.553, loss: 2.489, lr: 0.485
+[2020-12-03 03:47:10,282][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	950/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.068, lr: 0.485
+[2020-12-03 03:50:54,221][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	1000/1252 top5_error: 0.299, top1_error: 0.553, loss: 2.488, lr: 0.485
+[2020-12-03 03:50:54,624][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	1000/1252 top5_error: 0.392, top1_error: 0.644, loss: 3.068, lr: 0.485
+[2020-12-03 03:54:40,738][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	1050/1252 top5_error: 0.299, top1_error: 0.553, loss: 2.488, lr: 0.485
+[2020-12-03 03:54:41,173][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	1050/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.068, lr: 0.485
+[2020-12-03 03:58:24,777][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	1100/1252 top5_error: 0.299, top1_error: 0.553, loss: 2.488, lr: 0.485
+[2020-12-03 03:58:25,219][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	1100/1252 top5_error: 0.392, top1_error: 0.645, loss: 3.068, lr: 0.485
+[2020-12-03 04:02:11,903][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	1150/1252 top5_error: 0.298, top1_error: 0.553, loss: 2.487, lr: 0.485
+[2020-12-03 04:02:12,321][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	1150/1252 top5_error: 0.392, top1_error: 0.644, loss: 3.067, lr: 0.485
+[2020-12-03 04:05:50,818][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	1200/1252 top5_error: 0.298, top1_error: 0.553, loss: 2.486, lr: 0.485
+[2020-12-03 04:05:51,244][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	1200/1252 top5_error: 0.392, top1_error: 0.644, loss: 3.066, lr: 0.485
+[2020-12-03 04:09:33,132][train1126_uneven.py][line:552][INFO] train	1.0	epoch:7/250	1250/1252 top5_error: 0.298, top1_error: 0.553, loss: 2.486, lr: 0.485
+[2020-12-03 04:09:33,473][train1126_uneven.py][line:552][INFO] train	0.25	epoch:7/250	1250/1252 top5_error: 0.392, top1_error: 0.644, loss: 3.066, lr: 0.485
+[2020-12-03 04:09:41,542][train1126_uneven.py][line:576][INFO] train	1.0	epoch:7/250	1251/1252 top5_error: 0.298, top1_error: 0.553, loss: 2.487, lr: 0.485
+[2020-12-03 04:09:42,000][train1126_uneven.py][line:576][INFO] train	0.25	epoch:7/250	1251/1252 top5_error: 0.392, top1_error: 0.644, loss: 3.067, lr: 0.485
+[2020-12-03 04:10:25,254][train1126_uneven.py][line:552][INFO] val	1.0	epoch:7/250	0/49 top5_error: 0.157, top1_error: 0.411, loss: 1.727
+[2020-12-03 04:10:25,255][train1126_uneven.py][line:552][INFO] val	0.75	epoch:7/250	0/49 top5_error: 0.246, top1_error: 0.568, loss: 2.379
+[2020-12-03 04:10:25,256][train1126_uneven.py][line:552][INFO] val	0.5	epoch:7/250	0/49 top5_error: 0.221, top1_error: 0.540, loss: 2.234
+[2020-12-03 04:10:25,256][train1126_uneven.py][line:552][INFO] val	0.25	epoch:7/250	0/49 top5_error: 0.260, top1_error: 0.545, loss: 2.607
+[2020-12-03 04:12:49,115][train1126_uneven.py][line:576][INFO] val	1.0	epoch:7/250	48/49 top5_error: 0.310, top1_error: 0.580, loss: 2.669
+[2020-12-03 04:12:49,133][train1126_uneven.py][line:576][INFO] val	0.75	epoch:7/250	48/49 top5_error: 0.408, top1_error: 0.677, loss: 3.205
+[2020-12-03 04:12:49,152][train1126_uneven.py][line:576][INFO] val	0.5	epoch:7/250	48/49 top5_error: 0.406, top1_error: 0.671, loss: 3.136
+[2020-12-03 04:12:49,170][train1126_uneven.py][line:576][INFO] val	0.25	epoch:7/250	48/49 top5_error: 0.404, top1_error: 0.664, loss: 3.273
+[2020-12-03 04:12:49,170][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642]]
+[2020-12-03 04:12:49,170][train1126_uneven.py][line:713][INFO] 
+Epoch 8
+[2020-12-03 04:12:49,170][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 04:12:49,171][train1126_uneven.py][line:715][INFO] epoch time 5971.2872178554535
+[2020-12-03 04:15:17,006][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	0/1252 top5_error: 0.320, top1_error: 0.556, loss: 2.480, lr: 0.484
+[2020-12-03 04:15:17,009][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	0/1252 top5_error: 0.411, top1_error: 0.665, loss: 3.157, lr: 0.484
+[2020-12-03 04:19:33,448][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	50/1252 top5_error: 0.292, top1_error: 0.548, loss: 2.455, lr: 0.484
+[2020-12-03 04:19:33,475][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	50/1252 top5_error: 0.387, top1_error: 0.642, loss: 3.059, lr: 0.484
+[2020-12-03 04:23:33,556][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	100/1252 top5_error: 0.290, top1_error: 0.546, loss: 2.440, lr: 0.484
+[2020-12-03 04:23:33,601][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	100/1252 top5_error: 0.386, top1_error: 0.639, loss: 3.041, lr: 0.484
+[2020-12-03 04:27:18,125][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	150/1252 top5_error: 0.290, top1_error: 0.546, loss: 2.441, lr: 0.484
+[2020-12-03 04:27:18,198][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	150/1252 top5_error: 0.386, top1_error: 0.640, loss: 3.041, lr: 0.484
+[2020-12-03 04:30:59,626][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	200/1252 top5_error: 0.289, top1_error: 0.545, loss: 2.440, lr: 0.484
+[2020-12-03 04:30:59,761][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	200/1252 top5_error: 0.386, top1_error: 0.639, loss: 3.040, lr: 0.484
+[2020-12-03 04:34:45,761][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	250/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.432, lr: 0.484
+[2020-12-03 04:34:45,860][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	250/1252 top5_error: 0.384, top1_error: 0.639, loss: 3.034, lr: 0.484
+[2020-12-03 04:38:24,963][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	300/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.436, lr: 0.484
+[2020-12-03 04:38:25,060][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	300/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.037, lr: 0.484
+[2020-12-03 04:42:09,837][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	350/1252 top5_error: 0.288, top1_error: 0.545, loss: 2.436, lr: 0.484
+[2020-12-03 04:42:09,955][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	350/1252 top5_error: 0.385, top1_error: 0.640, loss: 3.036, lr: 0.484
+[2020-12-03 04:45:53,132][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	400/1252 top5_error: 0.289, top1_error: 0.545, loss: 2.437, lr: 0.484
+[2020-12-03 04:45:53,301][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	400/1252 top5_error: 0.386, top1_error: 0.640, loss: 3.037, lr: 0.484
+[2020-12-03 04:49:27,263][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	450/1252 top5_error: 0.289, top1_error: 0.544, loss: 2.435, lr: 0.484
+[2020-12-03 04:49:27,450][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	450/1252 top5_error: 0.386, top1_error: 0.639, loss: 3.035, lr: 0.484
+[2020-12-03 04:53:06,222][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	500/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.434, lr: 0.484
+[2020-12-03 04:53:06,478][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	500/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.034, lr: 0.484
+[2020-12-03 04:56:43,893][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	550/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.434, lr: 0.484
+[2020-12-03 04:56:44,116][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	550/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.033, lr: 0.484
+[2020-12-03 05:00:25,277][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	600/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.432, lr: 0.484
+[2020-12-03 05:00:25,525][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	600/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.032, lr: 0.484
+[2020-12-03 05:04:08,580][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	650/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.431, lr: 0.483
+[2020-12-03 05:04:08,855][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	650/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.031, lr: 0.483
+[2020-12-03 05:07:54,079][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	700/1252 top5_error: 0.288, top1_error: 0.544, loss: 2.432, lr: 0.483
+[2020-12-03 05:07:54,282][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	700/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.031, lr: 0.483
+[2020-12-03 05:11:41,834][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	750/1252 top5_error: 0.288, top1_error: 0.543, loss: 2.431, lr: 0.483
+[2020-12-03 05:11:42,067][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	750/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.031, lr: 0.483
+[2020-12-03 05:15:21,703][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	800/1252 top5_error: 0.288, top1_error: 0.543, loss: 2.430, lr: 0.483
+[2020-12-03 05:15:22,016][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	800/1252 top5_error: 0.385, top1_error: 0.638, loss: 3.029, lr: 0.483
+[2020-12-03 05:19:21,658][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	850/1252 top5_error: 0.288, top1_error: 0.543, loss: 2.431, lr: 0.483
+[2020-12-03 05:19:22,005][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	850/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.031, lr: 0.483
+[2020-12-03 05:23:23,227][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	900/1252 top5_error: 0.288, top1_error: 0.543, loss: 2.431, lr: 0.483
+[2020-12-03 05:23:23,512][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	900/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.030, lr: 0.483
+[2020-12-03 05:27:08,953][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	950/1252 top5_error: 0.288, top1_error: 0.543, loss: 2.432, lr: 0.483
+[2020-12-03 05:27:09,251][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	950/1252 top5_error: 0.386, top1_error: 0.639, loss: 3.030, lr: 0.483
+[2020-12-03 05:30:58,407][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	1000/1252 top5_error: 0.289, top1_error: 0.543, loss: 2.432, lr: 0.483
+[2020-12-03 05:30:58,779][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	1000/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.030, lr: 0.483
+[2020-12-03 05:34:37,522][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	1050/1252 top5_error: 0.289, top1_error: 0.543, loss: 2.432, lr: 0.483
+[2020-12-03 05:34:37,878][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	1050/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.030, lr: 0.483
+[2020-12-03 05:38:21,366][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	1100/1252 top5_error: 0.289, top1_error: 0.543, loss: 2.431, lr: 0.483
+[2020-12-03 05:38:21,757][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	1100/1252 top5_error: 0.385, top1_error: 0.639, loss: 3.030, lr: 0.483
+[2020-12-03 05:42:03,991][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	1150/1252 top5_error: 0.289, top1_error: 0.543, loss: 2.431, lr: 0.483
+[2020-12-03 05:42:04,416][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	1150/1252 top5_error: 0.385, top1_error: 0.638, loss: 3.029, lr: 0.483
+[2020-12-03 05:45:53,319][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	1200/1252 top5_error: 0.288, top1_error: 0.543, loss: 2.430, lr: 0.483
+[2020-12-03 05:45:53,728][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	1200/1252 top5_error: 0.385, top1_error: 0.638, loss: 3.028, lr: 0.483
+[2020-12-03 05:49:44,161][train1126_uneven.py][line:552][INFO] train	1.0	epoch:8/250	1250/1252 top5_error: 0.289, top1_error: 0.543, loss: 2.430, lr: 0.483
+[2020-12-03 05:49:44,594][train1126_uneven.py][line:552][INFO] train	0.25	epoch:8/250	1250/1252 top5_error: 0.385, top1_error: 0.638, loss: 3.028, lr: 0.483
+[2020-12-03 05:49:51,606][train1126_uneven.py][line:576][INFO] train	1.0	epoch:8/250	1251/1252 top5_error: 0.289, top1_error: 0.543, loss: 2.430, lr: 0.483
+[2020-12-03 05:49:52,087][train1126_uneven.py][line:576][INFO] train	0.25	epoch:8/250	1251/1252 top5_error: 0.385, top1_error: 0.638, loss: 3.029, lr: 0.483
+[2020-12-03 05:50:35,543][train1126_uneven.py][line:552][INFO] val	1.0	epoch:8/250	0/49 top5_error: 0.170, top1_error: 0.376, loss: 1.636
+[2020-12-03 05:50:35,543][train1126_uneven.py][line:552][INFO] val	0.75	epoch:8/250	0/49 top5_error: 0.235, top1_error: 0.496, loss: 2.184
+[2020-12-03 05:50:35,544][train1126_uneven.py][line:552][INFO] val	0.5	epoch:8/250	0/49 top5_error: 0.222, top1_error: 0.481, loss: 2.070
+[2020-12-03 05:50:35,544][train1126_uneven.py][line:552][INFO] val	0.25	epoch:8/250	0/49 top5_error: 0.248, top1_error: 0.510, loss: 2.527
+[2020-12-03 05:53:02,174][train1126_uneven.py][line:576][INFO] val	1.0	epoch:8/250	48/49 top5_error: 0.315, top1_error: 0.579, loss: 2.653
+[2020-12-03 05:53:02,194][train1126_uneven.py][line:576][INFO] val	0.75	epoch:8/250	48/49 top5_error: 0.411, top1_error: 0.671, loss: 3.202
+[2020-12-03 05:53:02,214][train1126_uneven.py][line:576][INFO] val	0.5	epoch:8/250	48/49 top5_error: 0.421, top1_error: 0.679, loss: 3.205
+[2020-12-03 05:53:02,233][train1126_uneven.py][line:576][INFO] val	0.25	epoch:8/250	48/49 top5_error: 0.424, top1_error: 0.677, loss: 3.415
+[2020-12-03 05:53:02,233][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982, 0.57922], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712, 0.6709], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118, 0.67876], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642, 0.67704]]
+[2020-12-03 05:53:02,233][train1126_uneven.py][line:713][INFO] 
+Epoch 9
+[2020-12-03 05:53:02,233][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 05:53:02,233][train1126_uneven.py][line:715][INFO] epoch time 6013.062762022018
+[2020-12-03 05:55:25,124][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	0/1252 top5_error: 0.288, top1_error: 0.526, loss: 2.388, lr: 0.482
+[2020-12-03 05:55:25,125][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	0/1252 top5_error: 0.395, top1_error: 0.639, loss: 3.034, lr: 0.482
+[2020-12-03 06:00:20,353][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	50/1252 top5_error: 0.289, top1_error: 0.541, loss: 2.417, lr: 0.482
+[2020-12-03 06:00:20,378][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	50/1252 top5_error: 0.385, top1_error: 0.635, loss: 3.022, lr: 0.482
+[2020-12-03 06:04:16,271][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	100/1252 top5_error: 0.284, top1_error: 0.536, loss: 2.390, lr: 0.482
+[2020-12-03 06:04:16,321][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	100/1252 top5_error: 0.380, top1_error: 0.633, loss: 3.002, lr: 0.482
+[2020-12-03 06:07:58,065][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	150/1252 top5_error: 0.283, top1_error: 0.535, loss: 2.387, lr: 0.482
+[2020-12-03 06:07:58,137][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	150/1252 top5_error: 0.380, top1_error: 0.633, loss: 3.002, lr: 0.482
+[2020-12-03 06:11:34,408][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	200/1252 top5_error: 0.283, top1_error: 0.536, loss: 2.390, lr: 0.482
+[2020-12-03 06:11:34,478][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	200/1252 top5_error: 0.381, top1_error: 0.634, loss: 3.003, lr: 0.482
+[2020-12-03 06:15:12,829][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	250/1252 top5_error: 0.282, top1_error: 0.535, loss: 2.387, lr: 0.482
+[2020-12-03 06:15:12,910][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	250/1252 top5_error: 0.381, top1_error: 0.633, loss: 2.999, lr: 0.482
+[2020-12-03 06:18:47,954][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	300/1252 top5_error: 0.281, top1_error: 0.535, loss: 2.384, lr: 0.482
+[2020-12-03 06:18:48,072][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	300/1252 top5_error: 0.380, top1_error: 0.633, loss: 2.997, lr: 0.482
+[2020-12-03 06:22:29,328][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	350/1252 top5_error: 0.282, top1_error: 0.535, loss: 2.384, lr: 0.482
+[2020-12-03 06:22:29,464][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	350/1252 top5_error: 0.380, top1_error: 0.633, loss: 2.994, lr: 0.482
+[2020-12-03 06:26:05,886][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	400/1252 top5_error: 0.282, top1_error: 0.535, loss: 2.384, lr: 0.482
+[2020-12-03 06:26:06,009][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	400/1252 top5_error: 0.380, top1_error: 0.633, loss: 2.994, lr: 0.482
+[2020-12-03 06:29:42,930][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	450/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.382, lr: 0.482
+[2020-12-03 06:29:43,067][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	450/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.993, lr: 0.482
+[2020-12-03 06:33:26,147][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	500/1252 top5_error: 0.281, top1_error: 0.535, loss: 2.382, lr: 0.482
+[2020-12-03 06:33:26,341][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	500/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.992, lr: 0.482
+[2020-12-03 06:37:10,583][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	550/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.380, lr: 0.482
+[2020-12-03 06:37:10,743][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	550/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.482
+[2020-12-03 06:40:47,985][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	600/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.380, lr: 0.482
+[2020-12-03 06:40:48,174][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	600/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.482
+[2020-12-03 06:44:28,811][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	650/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.381, lr: 0.481
+[2020-12-03 06:44:29,069][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	650/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 06:48:16,072][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	700/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.381, lr: 0.481
+[2020-12-03 06:48:16,359][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	700/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 06:52:08,224][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	750/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.382, lr: 0.481
+[2020-12-03 06:52:08,519][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	750/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.992, lr: 0.481
+[2020-12-03 06:55:55,188][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	800/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.381, lr: 0.481
+[2020-12-03 06:55:55,472][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	800/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 06:59:33,471][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	850/1252 top5_error: 0.281, top1_error: 0.534, loss: 2.380, lr: 0.481
+[2020-12-03 06:59:33,795][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	850/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 07:03:11,560][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	900/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:03:11,826][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	900/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.990, lr: 0.481
+[2020-12-03 07:06:49,848][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	950/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:06:50,250][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	950/1252 top5_error: 0.379, top1_error: 0.631, loss: 2.990, lr: 0.481
+[2020-12-03 07:10:38,175][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	1000/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:10:38,563][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	1000/1252 top5_error: 0.379, top1_error: 0.631, loss: 2.989, lr: 0.481
+[2020-12-03 07:14:26,875][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	1050/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:14:27,182][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	1050/1252 top5_error: 0.379, top1_error: 0.631, loss: 2.990, lr: 0.481
+[2020-12-03 07:18:15,141][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	1100/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:18:15,566][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	1100/1252 top5_error: 0.379, top1_error: 0.631, loss: 2.990, lr: 0.481
+[2020-12-03 07:21:54,926][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	1150/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:21:55,320][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	1150/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 07:25:38,907][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	1200/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.380, lr: 0.481
+[2020-12-03 07:25:39,236][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	1200/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 07:29:24,821][train1126_uneven.py][line:552][INFO] train	1.0	epoch:9/250	1250/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.379, lr: 0.481
+[2020-12-03 07:29:25,267][train1126_uneven.py][line:552][INFO] train	0.25	epoch:9/250	1250/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.990, lr: 0.481
+[2020-12-03 07:29:33,775][train1126_uneven.py][line:576][INFO] train	1.0	epoch:9/250	1251/1252 top5_error: 0.280, top1_error: 0.534, loss: 2.380, lr: 0.481
+[2020-12-03 07:29:34,374][train1126_uneven.py][line:576][INFO] train	0.25	epoch:9/250	1251/1252 top5_error: 0.379, top1_error: 0.632, loss: 2.991, lr: 0.481
+[2020-12-03 07:30:17,958][train1126_uneven.py][line:552][INFO] val	1.0	epoch:9/250	0/49 top5_error: 0.153, top1_error: 0.383, loss: 1.670
+[2020-12-03 07:30:17,959][train1126_uneven.py][line:552][INFO] val	0.75	epoch:9/250	0/49 top5_error: 0.274, top1_error: 0.520, loss: 2.494
+[2020-12-03 07:30:17,960][train1126_uneven.py][line:552][INFO] val	0.5	epoch:9/250	0/49 top5_error: 0.319, top1_error: 0.573, loss: 2.712
+[2020-12-03 07:30:17,960][train1126_uneven.py][line:552][INFO] val	0.25	epoch:9/250	0/49 top5_error: 0.254, top1_error: 0.508, loss: 2.373
+[2020-12-03 07:32:44,615][train1126_uneven.py][line:576][INFO] val	1.0	epoch:9/250	48/49 top5_error: 0.308, top1_error: 0.570, loss: 2.653
+[2020-12-03 07:32:44,635][train1126_uneven.py][line:576][INFO] val	0.75	epoch:9/250	48/49 top5_error: 0.399, top1_error: 0.654, loss: 3.179
+[2020-12-03 07:32:44,654][train1126_uneven.py][line:576][INFO] val	0.5	epoch:9/250	48/49 top5_error: 0.436, top1_error: 0.686, loss: 3.320
+[2020-12-03 07:32:44,674][train1126_uneven.py][line:576][INFO] val	0.25	epoch:9/250	48/49 top5_error: 0.408, top1_error: 0.663, loss: 3.180
+[2020-12-03 07:32:44,674][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982, 0.57922, 0.5703], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712, 0.6709, 0.65446], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118, 0.67876, 0.68558], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642, 0.67704, 0.6628]]
+[2020-12-03 07:32:44,674][train1126_uneven.py][line:713][INFO] 
+Epoch 10
+[2020-12-03 07:32:44,674][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 07:32:44,674][train1126_uneven.py][line:715][INFO] epoch time 5982.440788269043
+[2020-12-03 07:35:26,453][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	0/1252 top5_error: 0.291, top1_error: 0.545, loss: 2.405, lr: 0.480
+[2020-12-03 07:35:26,456][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	0/1252 top5_error: 0.409, top1_error: 0.664, loss: 3.136, lr: 0.480
+[2020-12-03 07:39:38,677][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	50/1252 top5_error: 0.277, top1_error: 0.533, loss: 2.361, lr: 0.480
+[2020-12-03 07:39:38,705][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	50/1252 top5_error: 0.376, top1_error: 0.633, loss: 2.995, lr: 0.480
+[2020-12-03 07:43:29,909][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	100/1252 top5_error: 0.275, top1_error: 0.529, loss: 2.349, lr: 0.480
+[2020-12-03 07:43:29,951][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	100/1252 top5_error: 0.375, top1_error: 0.631, loss: 2.979, lr: 0.480
+[2020-12-03 07:47:18,016][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	150/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.338, lr: 0.480
+[2020-12-03 07:47:18,076][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	150/1252 top5_error: 0.374, top1_error: 0.629, loss: 2.971, lr: 0.480
+[2020-12-03 07:51:13,460][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	200/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.340, lr: 0.480
+[2020-12-03 07:51:13,542][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	200/1252 top5_error: 0.374, top1_error: 0.628, loss: 2.971, lr: 0.480
+[2020-12-03 07:55:04,729][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	250/1252 top5_error: 0.274, top1_error: 0.527, loss: 2.343, lr: 0.480
+[2020-12-03 07:55:04,852][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	250/1252 top5_error: 0.375, top1_error: 0.629, loss: 2.972, lr: 0.480
+[2020-12-03 07:58:43,042][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	300/1252 top5_error: 0.274, top1_error: 0.527, loss: 2.342, lr: 0.480
+[2020-12-03 07:58:43,190][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	300/1252 top5_error: 0.375, top1_error: 0.629, loss: 2.972, lr: 0.480
+[2020-12-03 08:02:22,143][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	350/1252 top5_error: 0.275, top1_error: 0.527, loss: 2.344, lr: 0.480
+[2020-12-03 08:02:22,289][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	350/1252 top5_error: 0.376, top1_error: 0.628, loss: 2.972, lr: 0.480
+[2020-12-03 08:06:03,160][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	400/1252 top5_error: 0.274, top1_error: 0.527, loss: 2.344, lr: 0.480
+[2020-12-03 08:06:03,322][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	400/1252 top5_error: 0.376, top1_error: 0.629, loss: 2.972, lr: 0.480
+[2020-12-03 08:09:46,399][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	450/1252 top5_error: 0.274, top1_error: 0.527, loss: 2.344, lr: 0.480
+[2020-12-03 08:09:46,580][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	450/1252 top5_error: 0.375, top1_error: 0.629, loss: 2.971, lr: 0.480
+[2020-12-03 08:13:27,080][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	500/1252 top5_error: 0.274, top1_error: 0.527, loss: 2.342, lr: 0.480
+[2020-12-03 08:13:27,289][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	500/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.970, lr: 0.480
+[2020-12-03 08:17:15,301][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	550/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.342, lr: 0.480
+[2020-12-03 08:17:15,517][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	550/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.969, lr: 0.480
+[2020-12-03 08:20:55,604][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	600/1252 top5_error: 0.274, top1_error: 0.527, loss: 2.343, lr: 0.480
+[2020-12-03 08:20:55,830][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	600/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.970, lr: 0.480
+[2020-12-03 08:24:34,356][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	650/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.342, lr: 0.479
+[2020-12-03 08:24:34,601][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	650/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.969, lr: 0.479
+[2020-12-03 08:28:11,058][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	700/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.342, lr: 0.479
+[2020-12-03 08:28:11,371][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	700/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.968, lr: 0.479
+[2020-12-03 08:31:51,063][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	750/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.341, lr: 0.479
+[2020-12-03 08:31:51,352][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	750/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.968, lr: 0.479
+[2020-12-03 08:35:29,351][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	800/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.341, lr: 0.479
+[2020-12-03 08:35:29,602][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	800/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.968, lr: 0.479
+[2020-12-03 08:39:12,747][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	850/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.342, lr: 0.479
+[2020-12-03 08:39:13,064][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	850/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.969, lr: 0.479
+[2020-12-03 08:42:59,214][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	900/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.343, lr: 0.479
+[2020-12-03 08:42:59,581][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	900/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.968, lr: 0.479
+[2020-12-03 08:46:36,409][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	950/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.343, lr: 0.479
+[2020-12-03 08:46:36,775][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	950/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.969, lr: 0.479
+[2020-12-03 08:50:12,233][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	1000/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.343, lr: 0.479
+[2020-12-03 08:50:12,528][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	1000/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.969, lr: 0.479
+[2020-12-03 08:53:48,836][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	1050/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.343, lr: 0.479
+[2020-12-03 08:53:49,190][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	1050/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.968, lr: 0.479
+[2020-12-03 08:57:29,796][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	1100/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.342, lr: 0.479
+[2020-12-03 08:57:30,176][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	1100/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.968, lr: 0.479
+[2020-12-03 09:01:18,562][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	1150/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.341, lr: 0.479
+[2020-12-03 09:01:18,961][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	1150/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.967, lr: 0.479
+[2020-12-03 09:05:01,280][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	1200/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.341, lr: 0.479
+[2020-12-03 09:05:01,721][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	1200/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.967, lr: 0.479
+[2020-12-03 09:08:42,270][train1126_uneven.py][line:552][INFO] train	1.0	epoch:10/250	1250/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.340, lr: 0.479
+[2020-12-03 09:08:42,648][train1126_uneven.py][line:552][INFO] train	0.25	epoch:10/250	1250/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.966, lr: 0.479
+[2020-12-03 09:08:50,959][train1126_uneven.py][line:576][INFO] train	1.0	epoch:10/250	1251/1252 top5_error: 0.274, top1_error: 0.526, loss: 2.340, lr: 0.479
+[2020-12-03 09:08:51,468][train1126_uneven.py][line:576][INFO] train	0.25	epoch:10/250	1251/1252 top5_error: 0.375, top1_error: 0.628, loss: 2.967, lr: 0.479
+[2020-12-03 09:09:35,373][train1126_uneven.py][line:552][INFO] val	1.0	epoch:10/250	0/49 top5_error: 0.153, top1_error: 0.349, loss: 1.506
+[2020-12-03 09:09:35,374][train1126_uneven.py][line:552][INFO] val	0.75	epoch:10/250	0/49 top5_error: 0.188, top1_error: 0.419, loss: 1.822
+[2020-12-03 09:09:35,375][train1126_uneven.py][line:552][INFO] val	0.5	epoch:10/250	0/49 top5_error: 0.275, top1_error: 0.514, loss: 2.400
+[2020-12-03 09:09:35,375][train1126_uneven.py][line:552][INFO] val	0.25	epoch:10/250	0/49 top5_error: 0.251, top1_error: 0.505, loss: 2.507
+[2020-12-03 09:12:01,317][train1126_uneven.py][line:576][INFO] val	1.0	epoch:10/250	48/49 top5_error: 0.277, top1_error: 0.541, loss: 2.424
+[2020-12-03 09:12:01,337][train1126_uneven.py][line:576][INFO] val	0.75	epoch:10/250	48/49 top5_error: 0.336, top1_error: 0.596, loss: 2.738
+[2020-12-03 09:12:01,356][train1126_uneven.py][line:576][INFO] val	0.5	epoch:10/250	48/49 top5_error: 0.401, top1_error: 0.657, loss: 3.100
+[2020-12-03 09:12:01,375][train1126_uneven.py][line:576][INFO] val	0.25	epoch:10/250	48/49 top5_error: 0.387, top1_error: 0.646, loss: 3.131
+[2020-12-03 09:12:01,375][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982, 0.57922, 0.5703, 0.54056], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712, 0.6709, 0.65446, 0.596], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118, 0.67876, 0.68558, 0.6572], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642, 0.67704, 0.6628, 0.6459]]
+[2020-12-03 09:12:01,739][train1126_uneven.py][line:713][INFO] 
+Epoch 11
+[2020-12-03 09:12:01,740][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 09:12:01,740][train1126_uneven.py][line:715][INFO] epoch time 5957.065517663956
+[2020-12-03 09:14:39,439][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	0/1252 top5_error: 0.278, top1_error: 0.531, loss: 2.374, lr: 0.478
+[2020-12-03 09:14:39,441][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	0/1252 top5_error: 0.383, top1_error: 0.648, loss: 2.900, lr: 0.478
+[2020-12-03 09:19:34,682][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	50/1252 top5_error: 0.270, top1_error: 0.524, loss: 2.321, lr: 0.478
+[2020-12-03 09:19:34,700][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	50/1252 top5_error: 0.373, top1_error: 0.628, loss: 2.955, lr: 0.478
+[2020-12-03 09:23:23,453][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	100/1252 top5_error: 0.268, top1_error: 0.522, loss: 2.315, lr: 0.478
+[2020-12-03 09:23:23,511][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	100/1252 top5_error: 0.373, top1_error: 0.627, loss: 2.952, lr: 0.478
+[2020-12-03 09:27:10,890][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	150/1252 top5_error: 0.267, top1_error: 0.520, loss: 2.306, lr: 0.478
+[2020-12-03 09:27:10,952][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	150/1252 top5_error: 0.371, top1_error: 0.625, loss: 2.949, lr: 0.478
+[2020-12-03 09:30:46,273][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	200/1252 top5_error: 0.267, top1_error: 0.520, loss: 2.301, lr: 0.478
+[2020-12-03 09:30:46,332][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	200/1252 top5_error: 0.370, top1_error: 0.625, loss: 2.944, lr: 0.478
+[2020-12-03 09:34:22,914][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	250/1252 top5_error: 0.267, top1_error: 0.519, loss: 2.302, lr: 0.478
+[2020-12-03 09:34:22,995][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	250/1252 top5_error: 0.370, top1_error: 0.625, loss: 2.944, lr: 0.478
+[2020-12-03 09:38:03,916][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	300/1252 top5_error: 0.268, top1_error: 0.519, loss: 2.303, lr: 0.478
+[2020-12-03 09:38:04,011][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	300/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.945, lr: 0.478
+[2020-12-03 09:41:43,920][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	350/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.304, lr: 0.478
+[2020-12-03 09:41:44,039][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	350/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.944, lr: 0.478
+[2020-12-03 09:45:26,790][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	400/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.304, lr: 0.478
+[2020-12-03 09:45:27,081][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	400/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.943, lr: 0.478
+[2020-12-03 09:49:07,324][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	450/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.304, lr: 0.478
+[2020-12-03 09:49:07,515][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	450/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.943, lr: 0.478
+[2020-12-03 09:52:43,898][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	500/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.305, lr: 0.478
+[2020-12-03 09:52:44,101][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	500/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.946, lr: 0.478
+[2020-12-03 09:56:21,830][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	550/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.305, lr: 0.478
+[2020-12-03 09:56:21,999][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	550/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.943, lr: 0.478
+[2020-12-03 09:59:57,890][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	600/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.304, lr: 0.478
+[2020-12-03 09:59:58,121][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	600/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.943, lr: 0.478
+[2020-12-03 10:03:41,527][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	650/1252 top5_error: 0.267, top1_error: 0.519, loss: 2.302, lr: 0.477
+[2020-12-03 10:03:41,731][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	650/1252 top5_error: 0.369, top1_error: 0.623, loss: 2.941, lr: 0.477
+[2020-12-03 10:07:22,849][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	700/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.305, lr: 0.477
+[2020-12-03 10:07:23,066][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	700/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.943, lr: 0.477
+[2020-12-03 10:11:03,288][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	750/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.305, lr: 0.477
+[2020-12-03 10:11:03,603][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	750/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.944, lr: 0.477
+[2020-12-03 10:14:43,170][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	800/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.307, lr: 0.477
+[2020-12-03 10:14:43,578][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	800/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.946, lr: 0.477
+[2020-12-03 10:18:24,850][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	850/1252 top5_error: 0.268, top1_error: 0.521, loss: 2.308, lr: 0.477
+[2020-12-03 10:18:25,142][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	850/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.945, lr: 0.477
+[2020-12-03 10:22:06,827][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	900/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.307, lr: 0.477
+[2020-12-03 10:22:07,150][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	900/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.945, lr: 0.477
+[2020-12-03 10:25:49,968][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	950/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.306, lr: 0.477
+[2020-12-03 10:25:50,336][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	950/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.944, lr: 0.477
+[2020-12-03 10:29:30,325][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	1000/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.306, lr: 0.477
+[2020-12-03 10:29:30,711][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	1000/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.944, lr: 0.477
+[2020-12-03 10:33:10,358][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	1050/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.305, lr: 0.477
+[2020-12-03 10:33:10,753][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	1050/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.944, lr: 0.477
+[2020-12-03 10:36:51,150][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	1100/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.306, lr: 0.477
+[2020-12-03 10:36:51,536][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	1100/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.944, lr: 0.477
+[2020-12-03 10:40:35,288][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	1150/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.307, lr: 0.477
+[2020-12-03 10:40:35,658][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	1150/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.945, lr: 0.477
+[2020-12-03 10:44:23,741][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	1200/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.307, lr: 0.477
+[2020-12-03 10:44:24,160][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	1200/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.945, lr: 0.477
+[2020-12-03 10:48:12,179][train1126_uneven.py][line:552][INFO] train	1.0	epoch:11/250	1250/1252 top5_error: 0.268, top1_error: 0.520, loss: 2.308, lr: 0.477
+[2020-12-03 10:48:12,625][train1126_uneven.py][line:552][INFO] train	0.25	epoch:11/250	1250/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.946, lr: 0.477
+[2020-12-03 10:48:19,958][train1126_uneven.py][line:576][INFO] train	1.0	epoch:11/250	1251/1252 top5_error: 0.269, top1_error: 0.520, loss: 2.308, lr: 0.477
+[2020-12-03 10:48:20,457][train1126_uneven.py][line:576][INFO] train	0.25	epoch:11/250	1251/1252 top5_error: 0.370, top1_error: 0.624, loss: 2.946, lr: 0.477
+[2020-12-03 10:49:04,305][train1126_uneven.py][line:552][INFO] val	1.0	epoch:11/250	0/49 top5_error: 0.154, top1_error: 0.373, loss: 1.541
+[2020-12-03 10:49:04,306][train1126_uneven.py][line:552][INFO] val	0.75	epoch:11/250	0/49 top5_error: 0.210, top1_error: 0.448, loss: 1.918
+[2020-12-03 10:49:04,306][train1126_uneven.py][line:552][INFO] val	0.5	epoch:11/250	0/49 top5_error: 0.373, top1_error: 0.626, loss: 3.009
+[2020-12-03 10:49:04,307][train1126_uneven.py][line:552][INFO] val	0.25	epoch:11/250	0/49 top5_error: 0.302, top1_error: 0.565, loss: 2.708
+[2020-12-03 10:51:36,106][train1126_uneven.py][line:576][INFO] val	1.0	epoch:11/250	48/49 top5_error: 0.303, top1_error: 0.568, loss: 2.603
+[2020-12-03 10:51:36,125][train1126_uneven.py][line:576][INFO] val	0.75	epoch:11/250	48/49 top5_error: 0.382, top1_error: 0.642, loss: 3.075
+[2020-12-03 10:51:36,144][train1126_uneven.py][line:576][INFO] val	0.5	epoch:11/250	48/49 top5_error: 0.504, top1_error: 0.741, loss: 3.766
+[2020-12-03 10:51:36,165][train1126_uneven.py][line:576][INFO] val	0.25	epoch:11/250	48/49 top5_error: 0.459, top1_error: 0.704, loss: 3.485
+[2020-12-03 10:51:36,165][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982, 0.57922, 0.5703, 0.54056, 0.56754], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712, 0.6709, 0.65446, 0.596, 0.64194], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118, 0.67876, 0.68558, 0.6572, 0.74116], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642, 0.67704, 0.6628, 0.6459, 0.70396]]
+[2020-12-03 10:51:36,165][train1126_uneven.py][line:713][INFO] 
+Epoch 12
+[2020-12-03 10:51:36,165][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 10:51:36,165][train1126_uneven.py][line:715][INFO] epoch time 5974.425187110901
+[2020-12-03 10:53:33,176][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	0/1252 top5_error: 0.255, top1_error: 0.540, loss: 2.256, lr: 0.476
+[2020-12-03 10:53:33,179][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	0/1252 top5_error: 0.388, top1_error: 0.648, loss: 3.013, lr: 0.476
+[2020-12-03 10:57:47,028][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	50/1252 top5_error: 0.269, top1_error: 0.521, loss: 2.312, lr: 0.476
+[2020-12-03 10:57:47,046][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	50/1252 top5_error: 0.377, top1_error: 0.630, loss: 2.975, lr: 0.476
+[2020-12-03 11:01:45,583][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	100/1252 top5_error: 0.264, top1_error: 0.516, loss: 2.282, lr: 0.476
+[2020-12-03 11:01:45,629][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	100/1252 top5_error: 0.371, top1_error: 0.624, loss: 2.940, lr: 0.476
+[2020-12-03 11:05:34,339][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	150/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.476
+[2020-12-03 11:05:34,398][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	150/1252 top5_error: 0.370, top1_error: 0.623, loss: 2.938, lr: 0.476
+[2020-12-03 11:09:26,331][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	200/1252 top5_error: 0.263, top1_error: 0.515, loss: 2.275, lr: 0.476
+[2020-12-03 11:09:26,437][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	200/1252 top5_error: 0.368, top1_error: 0.622, loss: 2.931, lr: 0.476
+[2020-12-03 11:13:15,479][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	250/1252 top5_error: 0.263, top1_error: 0.514, loss: 2.273, lr: 0.476
+[2020-12-03 11:13:15,588][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	250/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.476
+[2020-12-03 11:17:09,480][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	300/1252 top5_error: 0.263, top1_error: 0.514, loss: 2.273, lr: 0.476
+[2020-12-03 11:17:09,586][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	300/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.925, lr: 0.476
+[2020-12-03 11:21:00,245][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	350/1252 top5_error: 0.263, top1_error: 0.514, loss: 2.272, lr: 0.476
+[2020-12-03 11:21:00,355][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	350/1252 top5_error: 0.367, top1_error: 0.620, loss: 2.924, lr: 0.476
+[2020-12-03 11:25:02,759][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	400/1252 top5_error: 0.263, top1_error: 0.514, loss: 2.272, lr: 0.476
+[2020-12-03 11:25:02,914][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	400/1252 top5_error: 0.367, top1_error: 0.621, loss: 2.924, lr: 0.476
+[2020-12-03 11:28:45,718][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	450/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.276, lr: 0.476
+[2020-12-03 11:28:45,849][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	450/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.476
+[2020-12-03 11:32:31,188][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	500/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.276, lr: 0.476
+[2020-12-03 11:32:31,404][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	500/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.926, lr: 0.476
+[2020-12-03 11:36:12,503][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	550/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.276, lr: 0.476
+[2020-12-03 11:36:12,717][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	550/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.926, lr: 0.476
+[2020-12-03 11:39:49,471][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	600/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.278, lr: 0.476
+[2020-12-03 11:39:49,641][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	600/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.927, lr: 0.476
+[2020-12-03 11:43:27,729][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	650/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.278, lr: 0.475
+[2020-12-03 11:43:27,996][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	650/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 11:47:06,993][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	700/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.278, lr: 0.475
+[2020-12-03 11:47:07,220][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	700/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 11:50:47,499][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	750/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.279, lr: 0.475
+[2020-12-03 11:50:47,747][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	750/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 11:54:28,127][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	800/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.475
+[2020-12-03 11:54:28,468][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	800/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 11:58:08,547][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	850/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.475
+[2020-12-03 11:58:08,892][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	850/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:01:56,200][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	900/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.475
+[2020-12-03 12:01:56,588][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	900/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:05:43,541][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	950/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.475
+[2020-12-03 12:05:43,926][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	950/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:09:23,108][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	1000/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.475
+[2020-12-03 12:09:23,511][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	1000/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:13:04,227][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	1050/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.280, lr: 0.475
+[2020-12-03 12:13:04,528][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	1050/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:16:47,018][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	1100/1252 top5_error: 0.264, top1_error: 0.515, loss: 2.281, lr: 0.475
+[2020-12-03 12:16:47,458][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	1100/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:20:30,419][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	1150/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.280, lr: 0.475
+[2020-12-03 12:20:30,849][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	1150/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:24:09,952][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	1200/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.280, lr: 0.475
+[2020-12-03 12:24:10,371][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	1200/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:27:54,196][train1126_uneven.py][line:552][INFO] train	1.0	epoch:12/250	1250/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.280, lr: 0.475
+[2020-12-03 12:27:54,562][train1126_uneven.py][line:552][INFO] train	0.25	epoch:12/250	1250/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.928, lr: 0.475
+[2020-12-03 12:28:02,667][train1126_uneven.py][line:576][INFO] train	1.0	epoch:12/250	1251/1252 top5_error: 0.264, top1_error: 0.514, loss: 2.280, lr: 0.475
+[2020-12-03 12:28:03,147][train1126_uneven.py][line:576][INFO] train	0.25	epoch:12/250	1251/1252 top5_error: 0.368, top1_error: 0.621, loss: 2.929, lr: 0.475
+[2020-12-03 12:28:46,607][train1126_uneven.py][line:552][INFO] val	1.0	epoch:12/250	0/49 top5_error: 0.164, top1_error: 0.389, loss: 1.655
+[2020-12-03 12:28:46,608][train1126_uneven.py][line:552][INFO] val	0.75	epoch:12/250	0/49 top5_error: 0.220, top1_error: 0.503, loss: 2.154
+[2020-12-03 12:28:46,609][train1126_uneven.py][line:552][INFO] val	0.5	epoch:12/250	0/49 top5_error: 0.360, top1_error: 0.646, loss: 2.931
+[2020-12-03 12:28:46,609][train1126_uneven.py][line:552][INFO] val	0.25	epoch:12/250	0/49 top5_error: 0.263, top1_error: 0.509, loss: 2.431
+[2020-12-03 12:31:09,111][train1126_uneven.py][line:576][INFO] val	1.0	epoch:12/250	48/49 top5_error: 0.278, top1_error: 0.541, loss: 2.437
+[2020-12-03 12:31:09,130][train1126_uneven.py][line:576][INFO] val	0.75	epoch:12/250	48/49 top5_error: 0.338, top1_error: 0.605, loss: 2.758
+[2020-12-03 12:31:09,150][train1126_uneven.py][line:576][INFO] val	0.5	epoch:12/250	48/49 top5_error: 0.446, top1_error: 0.700, loss: 3.367
+[2020-12-03 12:31:09,169][train1126_uneven.py][line:576][INFO] val	0.25	epoch:12/250	48/49 top5_error: 0.396, top1_error: 0.651, loss: 3.171
+[2020-12-03 12:31:09,169][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982, 0.57922, 0.5703, 0.54056, 0.56754, 0.54092], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712, 0.6709, 0.65446, 0.596, 0.64194, 0.60464], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118, 0.67876, 0.68558, 0.6572, 0.74116, 0.70044], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642, 0.67704, 0.6628, 0.6459, 0.70396, 0.6507]]
+[2020-12-03 12:31:09,169][train1126_uneven.py][line:713][INFO] 
+Epoch 13
+[2020-12-03 12:31:09,169][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 12:31:09,169][train1126_uneven.py][line:715][INFO] epoch time 5973.004387378693
+[2020-12-03 12:34:41,681][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	0/1252 top5_error: 0.259, top1_error: 0.515, loss: 2.261, lr: 0.474
+[2020-12-03 12:34:41,683][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	0/1252 top5_error: 0.368, top1_error: 0.614, loss: 2.960, lr: 0.474
+[2020-12-03 12:39:26,894][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	50/1252 top5_error: 0.261, top1_error: 0.513, loss: 2.267, lr: 0.474
+[2020-12-03 12:39:26,933][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	50/1252 top5_error: 0.368, top1_error: 0.622, loss: 2.921, lr: 0.474
+[2020-12-03 12:43:19,251][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	100/1252 top5_error: 0.259, top1_error: 0.510, loss: 2.254, lr: 0.474
+[2020-12-03 12:43:19,296][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	100/1252 top5_error: 0.366, top1_error: 0.619, loss: 2.911, lr: 0.474
+[2020-12-03 12:47:10,188][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	150/1252 top5_error: 0.259, top1_error: 0.510, loss: 2.254, lr: 0.474
+[2020-12-03 12:47:10,252][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	150/1252 top5_error: 0.365, top1_error: 0.618, loss: 2.912, lr: 0.474
+[2020-12-03 12:51:03,161][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	200/1252 top5_error: 0.258, top1_error: 0.509, loss: 2.247, lr: 0.474
+[2020-12-03 12:51:03,239][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	200/1252 top5_error: 0.365, top1_error: 0.617, loss: 2.906, lr: 0.474
+[2020-12-03 12:54:36,861][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	250/1252 top5_error: 0.258, top1_error: 0.509, loss: 2.247, lr: 0.474
+[2020-12-03 12:54:36,943][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	250/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.906, lr: 0.474
+[2020-12-03 12:58:13,521][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	300/1252 top5_error: 0.258, top1_error: 0.509, loss: 2.244, lr: 0.474
+[2020-12-03 12:58:13,649][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	300/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.905, lr: 0.474
+[2020-12-03 13:01:54,555][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	350/1252 top5_error: 0.258, top1_error: 0.509, loss: 2.245, lr: 0.474
+[2020-12-03 13:01:54,699][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	350/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.906, lr: 0.474
+[2020-12-03 13:05:33,880][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	400/1252 top5_error: 0.258, top1_error: 0.509, loss: 2.245, lr: 0.474
+[2020-12-03 13:05:34,007][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	400/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.905, lr: 0.474
+[2020-12-03 13:09:12,309][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	450/1252 top5_error: 0.259, top1_error: 0.509, loss: 2.245, lr: 0.474
+[2020-12-03 13:09:12,497][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	450/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.906, lr: 0.474
+[2020-12-03 13:12:53,449][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	500/1252 top5_error: 0.259, top1_error: 0.509, loss: 2.247, lr: 0.474
+[2020-12-03 13:12:53,663][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	500/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.907, lr: 0.474
+[2020-12-03 13:16:31,976][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	550/1252 top5_error: 0.259, top1_error: 0.509, loss: 2.248, lr: 0.474
+[2020-12-03 13:16:32,190][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	550/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.906, lr: 0.474
+[2020-12-03 13:20:12,743][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	600/1252 top5_error: 0.259, top1_error: 0.509, loss: 2.247, lr: 0.474
+[2020-12-03 13:20:12,985][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	600/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.906, lr: 0.474
+[2020-12-03 13:23:50,162][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	650/1252 top5_error: 0.259, top1_error: 0.509, loss: 2.248, lr: 0.473
+[2020-12-03 13:23:50,419][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	650/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.906, lr: 0.473
+[2020-12-03 13:27:32,791][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	700/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.249, lr: 0.473
+[2020-12-03 13:27:33,086][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	700/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.907, lr: 0.473
+[2020-12-03 13:31:15,400][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	750/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.252, lr: 0.473
+[2020-12-03 13:31:15,633][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	750/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.908, lr: 0.473
+[2020-12-03 13:35:12,092][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	800/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.252, lr: 0.473
+[2020-12-03 13:35:12,409][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	800/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.909, lr: 0.473
+[2020-12-03 13:38:56,963][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	850/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.251, lr: 0.473
+[2020-12-03 13:38:57,293][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	850/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.908, lr: 0.473
+[2020-12-03 13:42:42,644][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	900/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.251, lr: 0.473
+[2020-12-03 13:42:42,987][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	900/1252 top5_error: 0.364, top1_error: 0.617, loss: 2.908, lr: 0.473
+[2020-12-03 13:46:26,615][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	950/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.253, lr: 0.473
+[2020-12-03 13:46:26,990][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	950/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.909, lr: 0.473
+[2020-12-03 13:50:06,043][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	1000/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.254, lr: 0.473
+[2020-12-03 13:50:06,394][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	1000/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.910, lr: 0.473
+[2020-12-03 13:54:04,563][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	1050/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.255, lr: 0.473
+[2020-12-03 13:54:04,933][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	1050/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.911, lr: 0.473
+[2020-12-03 13:57:55,065][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	1100/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.256, lr: 0.473
+[2020-12-03 13:57:55,492][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	1100/1252 top5_error: 0.365, top1_error: 0.618, loss: 2.912, lr: 0.473
+[2020-12-03 14:01:50,597][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	1150/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.257, lr: 0.473
+[2020-12-03 14:01:51,044][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	1150/1252 top5_error: 0.365, top1_error: 0.618, loss: 2.913, lr: 0.473
+[2020-12-03 14:05:41,753][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	1200/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.257, lr: 0.473
+[2020-12-03 14:05:42,221][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	1200/1252 top5_error: 0.365, top1_error: 0.618, loss: 2.913, lr: 0.473
+[2020-12-03 14:09:31,033][train1126_uneven.py][line:552][INFO] train	1.0	epoch:13/250	1250/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.257, lr: 0.473
+[2020-12-03 14:09:31,510][train1126_uneven.py][line:552][INFO] train	0.25	epoch:13/250	1250/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.912, lr: 0.473
+[2020-12-03 14:09:38,507][train1126_uneven.py][line:576][INFO] train	1.0	epoch:13/250	1251/1252 top5_error: 0.260, top1_error: 0.510, loss: 2.257, lr: 0.473
+[2020-12-03 14:09:38,988][train1126_uneven.py][line:576][INFO] train	0.25	epoch:13/250	1251/1252 top5_error: 0.364, top1_error: 0.618, loss: 2.913, lr: 0.473
+[2020-12-03 14:10:22,876][train1126_uneven.py][line:552][INFO] val	1.0	epoch:13/250	0/49 top5_error: 0.152, top1_error: 0.352, loss: 1.509
+[2020-12-03 14:10:22,878][train1126_uneven.py][line:552][INFO] val	0.75	epoch:13/250	0/49 top5_error: 0.253, top1_error: 0.472, loss: 2.160
+[2020-12-03 14:10:22,879][train1126_uneven.py][line:552][INFO] val	0.5	epoch:13/250	0/49 top5_error: 0.275, top1_error: 0.493, loss: 2.237
+[2020-12-03 14:10:22,880][train1126_uneven.py][line:552][INFO] val	0.25	epoch:13/250	0/49 top5_error: 0.322, top1_error: 0.555, loss: 2.755
+[2020-12-03 14:12:50,781][train1126_uneven.py][line:576][INFO] val	1.0	epoch:13/250	48/49 top5_error: 0.264, top1_error: 0.526, loss: 2.324
+[2020-12-03 14:12:50,800][train1126_uneven.py][line:576][INFO] val	0.75	epoch:13/250	48/49 top5_error: 0.352, top1_error: 0.614, loss: 2.849
+[2020-12-03 14:12:50,820][train1126_uneven.py][line:576][INFO] val	0.5	epoch:13/250	48/49 top5_error: 0.392, top1_error: 0.648, loss: 3.047
+[2020-12-03 14:12:50,838][train1126_uneven.py][line:576][INFO] val	0.25	epoch:13/250	48/49 top5_error: 0.387, top1_error: 0.646, loss: 3.117
+[2020-12-03 14:12:50,838][train1126_uneven.py][line:747][INFO] [[0.87748, 0.75082, 0.69814, 0.64046, 0.68278, 0.586, 0.57982, 0.57922, 0.5703, 0.54056, 0.56754, 0.54092, 0.5257], [0.99308, 0.88818, 0.84894, 0.74786, 0.68064, 0.64268, 0.67712, 0.6709, 0.65446, 0.596, 0.64194, 0.60464, 0.61424], [0.98474, 0.87416, 0.84022, 0.84196, 0.74776, 0.69358, 0.67118, 0.67876, 0.68558, 0.6572, 0.74116, 0.70044, 0.64788], [0.8985, 0.8035, 0.76354, 0.73242, 0.82892, 0.68894, 0.6642, 0.67704, 0.6628, 0.6459, 0.70396, 0.6507, 0.646]]
+[2020-12-03 14:12:50,839][train1126_uneven.py][line:713][INFO] 
+Epoch 14
+[2020-12-03 14:12:50,839][train1126_uneven.py][line:714][INFO] Search Space: even+larger+exp8
+[2020-12-03 14:12:50,839][train1126_uneven.py][line:715][INFO] epoch time 6101.669235944748
+[2020-12-03 14:14:36,278][train1126_uneven.py][line:552][INFO] train	1.0	epoch:14/250	0/1252 top5_error: 0.263, top1_error: 0.510, loss: 2.243, lr: 0.472
+[2020-12-03 14:14:36,279][train1126_uneven.py][line:552][INFO] train	0.25	epoch:14/250	0/1252 top5_error: 0.376, top1_error: 0.626, loss: 2.905, lr: 0.472

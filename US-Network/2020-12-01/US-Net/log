@@ -1,0 +1,88 @@
+[2020-12-01 21:28:06,780][train1126_uneven.py][line:659][INFO] start training!
+[2020-12-01 21:28:32,517][train1126_uneven.py][line:767][INFO] 
+Epoch 1
+[2020-12-01 21:28:32,518][train1126_uneven.py][line:768][INFO] epoch time 0.0009279251098632812
+[2020-12-01 21:29:58,814][train1126_uneven.py][line:606][INFO] val	1.0	epoch:1/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:29:58,815][train1126_uneven.py][line:606][INFO] val	0.75	epoch:1/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:29:58,816][train1126_uneven.py][line:606][INFO] val	0.5	epoch:1/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:29:58,817][train1126_uneven.py][line:606][INFO] val	0.25	epoch:1/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:31:09,146][train1126_uneven.py][line:630][INFO] val	1.0	epoch:1/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:31:09,166][train1126_uneven.py][line:630][INFO] val	0.75	epoch:1/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:31:09,186][train1126_uneven.py][line:630][INFO] val	0.5	epoch:1/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:31:09,206][train1126_uneven.py][line:630][INFO] val	0.25	epoch:1/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:31:09,206][train1126_uneven.py][line:800][INFO] [[0.999], [0.999], [0.999], [0.999]]
+[2020-12-01 21:31:09,206][train1126_uneven.py][line:767][INFO] 
+Epoch 2
+[2020-12-01 21:31:09,206][train1126_uneven.py][line:768][INFO] epoch time 156.68789505958557
+[2020-12-01 21:31:59,658][train1126_uneven.py][line:606][INFO] val	1.0	epoch:2/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:31:59,661][train1126_uneven.py][line:606][INFO] val	0.75	epoch:2/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:31:59,663][train1126_uneven.py][line:606][INFO] val	0.5	epoch:2/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:31:59,664][train1126_uneven.py][line:606][INFO] val	0.25	epoch:2/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:33:09,998][train1126_uneven.py][line:630][INFO] val	1.0	epoch:2/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:33:10,017][train1126_uneven.py][line:630][INFO] val	0.75	epoch:2/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:33:10,035][train1126_uneven.py][line:630][INFO] val	0.5	epoch:2/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:33:10,054][train1126_uneven.py][line:630][INFO] val	0.25	epoch:2/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:33:10,054][train1126_uneven.py][line:800][INFO] [[0.999, 0.999], [0.999, 0.999], [0.999, 0.999], [0.999, 0.999]]
+[2020-12-01 21:33:10,054][train1126_uneven.py][line:767][INFO] 
+Epoch 3
+[2020-12-01 21:33:10,054][train1126_uneven.py][line:768][INFO] epoch time 120.84785962104797
+[2020-12-01 21:34:00,210][train1126_uneven.py][line:606][INFO] val	1.0	epoch:3/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:34:00,211][train1126_uneven.py][line:606][INFO] val	0.75	epoch:3/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:34:00,212][train1126_uneven.py][line:606][INFO] val	0.5	epoch:3/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:34:00,212][train1126_uneven.py][line:606][INFO] val	0.25	epoch:3/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:35:09,083][train1126_uneven.py][line:630][INFO] val	1.0	epoch:3/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:35:09,101][train1126_uneven.py][line:630][INFO] val	0.75	epoch:3/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:35:09,119][train1126_uneven.py][line:630][INFO] val	0.5	epoch:3/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:35:09,137][train1126_uneven.py][line:630][INFO] val	0.25	epoch:3/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:35:09,138][train1126_uneven.py][line:800][INFO] [[0.999, 0.999, 0.999], [0.999, 0.999, 0.999], [0.999, 0.999, 0.999], [0.999, 0.999, 0.999]]
+[2020-12-01 21:35:09,138][train1126_uneven.py][line:767][INFO] 
+Epoch 4
+[2020-12-01 21:35:09,138][train1126_uneven.py][line:768][INFO] epoch time 119.08363342285156
+[2020-12-01 21:36:00,687][train1126_uneven.py][line:606][INFO] val	1.0	epoch:4/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:36:00,688][train1126_uneven.py][line:606][INFO] val	0.75	epoch:4/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:36:00,689][train1126_uneven.py][line:606][INFO] val	0.5	epoch:4/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:36:00,690][train1126_uneven.py][line:606][INFO] val	0.25	epoch:4/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:37:09,245][train1126_uneven.py][line:630][INFO] val	1.0	epoch:4/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:37:09,266][train1126_uneven.py][line:630][INFO] val	0.75	epoch:4/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:37:09,285][train1126_uneven.py][line:630][INFO] val	0.5	epoch:4/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:37:09,306][train1126_uneven.py][line:630][INFO] val	0.25	epoch:4/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:37:09,306][train1126_uneven.py][line:800][INFO] [[0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999]]
+[2020-12-01 21:37:09,306][train1126_uneven.py][line:767][INFO] 
+Epoch 5
+[2020-12-01 21:37:09,306][train1126_uneven.py][line:768][INFO] epoch time 120.16861152648926
+[2020-12-01 21:38:00,996][train1126_uneven.py][line:606][INFO] val	1.0	epoch:5/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:38:00,999][train1126_uneven.py][line:606][INFO] val	0.75	epoch:5/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:38:01,000][train1126_uneven.py][line:606][INFO] val	0.5	epoch:5/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:38:01,002][train1126_uneven.py][line:606][INFO] val	0.25	epoch:5/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:39:09,722][train1126_uneven.py][line:630][INFO] val	1.0	epoch:5/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:39:09,740][train1126_uneven.py][line:630][INFO] val	0.75	epoch:5/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:39:09,759][train1126_uneven.py][line:630][INFO] val	0.5	epoch:5/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:39:09,778][train1126_uneven.py][line:630][INFO] val	0.25	epoch:5/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:39:09,778][train1126_uneven.py][line:800][INFO] [[0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999]]
+[2020-12-01 21:39:09,779][train1126_uneven.py][line:767][INFO] 
+Epoch 6
+[2020-12-01 21:39:09,779][train1126_uneven.py][line:768][INFO] epoch time 120.47213315963745
+[2020-12-01 21:39:59,917][train1126_uneven.py][line:606][INFO] val	1.0	epoch:6/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:39:59,917][train1126_uneven.py][line:606][INFO] val	0.75	epoch:6/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:39:59,918][train1126_uneven.py][line:606][INFO] val	0.5	epoch:6/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:39:59,919][train1126_uneven.py][line:606][INFO] val	0.25	epoch:6/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:41:10,536][train1126_uneven.py][line:630][INFO] val	1.0	epoch:6/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:41:10,554][train1126_uneven.py][line:630][INFO] val	0.75	epoch:6/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:41:10,572][train1126_uneven.py][line:630][INFO] val	0.5	epoch:6/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:41:10,591][train1126_uneven.py][line:630][INFO] val	0.25	epoch:6/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:41:10,591][train1126_uneven.py][line:800][INFO] [[0.999, 0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999, 0.999]]
+[2020-12-01 21:41:10,591][train1126_uneven.py][line:767][INFO] 
+Epoch 7
+[2020-12-01 21:41:10,591][train1126_uneven.py][line:768][INFO] epoch time 120.81268215179443
+[2020-12-01 21:42:03,578][train1126_uneven.py][line:606][INFO] val	1.0	epoch:7/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:42:03,579][train1126_uneven.py][line:606][INFO] val	0.75	epoch:7/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:42:03,580][train1126_uneven.py][line:606][INFO] val	0.5	epoch:7/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:42:03,580][train1126_uneven.py][line:606][INFO] val	0.25	epoch:7/250	0/49 top1_error: 1.000, top5_error: 1.000, loss: 6.916
+[2020-12-01 21:43:11,682][train1126_uneven.py][line:630][INFO] val	1.0	epoch:7/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:43:11,700][train1126_uneven.py][line:630][INFO] val	0.75	epoch:7/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:43:11,718][train1126_uneven.py][line:630][INFO] val	0.5	epoch:7/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:43:11,736][train1126_uneven.py][line:630][INFO] val	0.25	epoch:7/250	48/49 top1_error: 0.999, top5_error: 0.995, loss: 6.908
+[2020-12-01 21:43:11,737][train1126_uneven.py][line:800][INFO] [[0.999, 0.999, 0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999, 0.999, 0.999], [0.999, 0.999, 0.999, 0.999, 0.999, 0.999, 0.999]]
+[2020-12-01 21:43:11,737][train1126_uneven.py][line:767][INFO] 
+Epoch 8
+[2020-12-01 21:43:11,737][train1126_uneven.py][line:768][INFO] epoch time 121.14527249336243
